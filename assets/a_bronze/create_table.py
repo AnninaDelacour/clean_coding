@@ -4,15 +4,16 @@ from pandera import Column, DataFrameSchema
 
 # Definiere das Schema für die CSV-Daten
 transaction_schema = DataFrameSchema({
-    "Transaction_ID": Column(pa.String),
-    "Customer_ID": Column(pa.String),
-    "Date_Time": Column(pa.DateTime),
-    "Store_Location": Column(pa.String),
-    "Product": Column(pa.String),
-    "Brand": Column(pa.String),
-    "Quantity": Column(pa.Int),
-    "Total_Price": Column(pa.Float),
-    "Payment_Method": Column(pa.String),
+    "Transaction_ID": Column(pa.Int),
+    "Cashier_ID": Column(pa.String, nullable=True),
+    "Date_Time": Column(pa.DateTime, nullable=True),
+    "Store_Location": Column(pa.String, nullable=True),
+    "Product": Column(pa.String, nullable=True),
+    "Brand": Column(pa.String, nullable=True),
+    "Quantity": Column(pa.Int, nullable=True),
+    "Total_Price": Column(pa.Float, nullable=True),
+    "Payment_Method": Column(pa.String, nullable=True),
+    "Membership_ID": Column(pa.String, nullable=True),
     "Ingested_Timestamp": Column(pa.DateTime)
 })
 
@@ -27,8 +28,8 @@ def create_table_and_validate(df):
     # Erstelle die Tabelle, falls sie noch nicht existiert
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS Transactions (
-            Transaction_ID TEXT,
-            Customer_ID TEXT,
+            Transaction_ID INT,
+            Cashier_ID TEXT,
             Date_Time TEXT,
             Store_Location TEXT,
             Product TEXT,
@@ -37,6 +38,7 @@ def create_table_and_validate(df):
             Price_Per_Unit REAL,
             Total_Price REAL,
             Payment_Method TEXT,
+            Membership_ID TEXT,
             Ingested_Timestamp TEXT
         )
     ''')
