@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+ENV/
+Pipfile
+Pipfile.lock
+
+# SQLite databases
+*.db
+*.sqlite3
+transaction_data.db
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+.env
+
+dagit_run_logs
+python_modules/libraries/dagster-aws/dagster_aws/ecs/config.yaml
+
+python_modules/dagster-webserver/node_modules/
+python_modules/dagster-webserver/yarn.lock
+
+# old dagit stuff
+python_modules/dagit/node_modules/
+python_modules/dagit/yarn.lock
+js_modules/dagit
+
+# Gatsby stuff
+docs/gatsby/**/node_modules/
+docs/gatsby/**/_build
+docs/gatsby/**/public
+# Next stuff
+docs/next/.mdx-data
+docs/next/public/sitemap.xml
+# Data
+data
+# Don't ignore data folders in examples
+!examples/*/data
+!examples/**/**/data
+
+# Examples outputs
+examples/docs_snippets/docs_snippets/**/**/output/
+examples/docs_snippets/docs_snippets/**/**/output/
+examples/**/**/example.db
+
+
+# Build directories
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+
+# Sphinx documentation
+docs/_build/
+
+# Telemetry
+.telemetry

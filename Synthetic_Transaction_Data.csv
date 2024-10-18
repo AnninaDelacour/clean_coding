@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Date_Time,Store_Location,Product,Brand,Quantity,Price_Per_Unit,Total_Price,Payment_Method
+TXN_1,CUST_46,2023-09-06 20:02:00,Store_B,Pickled Cucumbers,Brand_A,2,2.67,5.34,Cash
+TXN_2,CUST_279,2023-09-03 09:53:00,Store_D,Pickled Cucumbers,Brand_C,2,1.84,3.68,Mobile Payment
+TXN_3,CUST_210,2023-09-09 20:40:00,Store_D,Cucumber,Brand_B,4,0.91,3.64,Credit Card
+TXN_4,CUST_133,2023-09-16 20:35:00,Store_B,Cucumber,Brand_A,4,1.17,4.68,Mobile Payment
+TXN_5,CUST_114,2023-09-30 12:22:00,Store_A,Cucumber,Brand_A,2,1.42,2.84,Mobile Payment
+TXN_6,CUST_93,2023-09-08 20:08:00,Store_A,Pickled Cucumbers,Brand_A,5,2.46,12.3,Mobile Payment
+TXN_7,CUST_132,2023-09-17 15:33:00,Store_A,Pickled Cucumbers,Brand_A,5,2.76,13.799999999999999,Mobile Payment
+TXN_8,CUST_276,2023-09-27 18:11:00,Store_A,Pickled Cucumbers,Brand_B,2,2.01,4.02,Credit Card
+TXN_9,CUST_39,2023-09-09 18:33:00,Store_D,Cucumber,Brand_B,3,1.25,3.75,Mobile Payment
+TXN_10,CUST_73,2023-09-04 11:20:00,Store_B,Pickled Cucumbers,Brand_B,4,2.03,8.12,Cash
+TXN_11,CUST_147,2023-09-22 15:11:00,Store_A,Pickled Cucumbers,Brand_A,1,2.73,2.73,Cash
+TXN_12,CUST_191,2023-09-08 08:54:00,Store_A,Cucumber,Brand_C,3,0.87,2.61,Mobile Payment
+TXN_13,CUST_240,2023-09-22 08:47:00,Store_A,Pickled Cucumbers,Brand_B,2,1.86,3.72,Credit Card
+TXN_14,CUST_68,2023-09-04 10:33:00,Store_B,Cucumber,Brand_A,5,1.04,5.2,Cash
+TXN_15,CUST_166,2023-09-18 18:18:00,Store_D,Pickled Cucumbers,Brand_A,5,2.5,12.5,Credit Card
+TXN_16,CUST_95,2023-09-16 14:07:00,Store_D,Pickled Cucumbers,Brand_A,5,2.5,12.5,Mobile Payment
+TXN_17,CUST_279,2023-09-27 13:58:00,Store_C,Pickled Cucumbers,Brand_A,5,2.46,12.3,Credit Card
+TXN_18,CUST_74,2023-09-03 15:12:00,Store_A,Cucumber,Brand_A,2,1.48,2.96,Credit Card
+TXN_19,CUST_229,2023-09-22 11:01:00,Store_A,Pickled Cucumbers,Brand_A,3,2.5,7.5,Mobile Payment
+TXN_20,CUST_262,2023-09-27 16:29:00,Store_C,Pickled Cucumbers,Brand_A,3,2.64,7.92,Cash
+TXN_21,CUST_109,2023-09-11 19:28:00,Store_A,Cucumber,Brand_B,3,1.01,3.0300000000000002,Cash
+TXN_22,CUST_198,2023-09-02 19:49:00,Store_A,Pickled Cucumbers,Brand_A,4,2.61,10.44,Mobile Payment
+TXN_23,CUST_194,2023-09-17 11:47:00,Store_A,Pickled Cucumbers,Brand_A,5,2.65,13.25,Mobile Payment
+TXN_24,CUST_175,2023-09-13 18:59:00,Store_B,Cucumber,Brand_A,1,1.06,1.06,Credit Card
+TXN_25,CUST_94,2023-09-30 15:54:00,Store_D,Cucumber,Brand_A,4,1.36,5.44,Cash
+TXN_26,CUST_55,2023-09-20 08:42:00,Store_C,Cucumber,Brand_B,5,1.1,5.5,Cash
+TXN_27,CUST_167,2023-09-12 13:56:00,Store_C,Cucumber,Brand_A,3,1.05,3.1500000000000004,Mobile Payment
+TXN_28,CUST_55,2023-09-01 08:08:00,Store_B,Pickled Cucumbers,Brand_A,1,2.84,2.84,Mobile Payment
+TXN_29,CUST_87,2023-09-25 11:15:00,Store_C,Cucumber,Brand_A,2,1.31,2.62,Mobile Payment
+TXN_30,CUST_37,2023-09-01 09:44:00,Store_C,Pickled Cucumbers,Brand_A,4,2.68,10.72,Credit Card
+TXN_31,CUST_82,2023-09-21 10:36:00,Store_D,Pickled Cucumbers,Brand_B,5,2.36,11.799999999999999,Credit Card
+TXN_32,CUST_200,2023-09-18 11:33:00,Store_D,Cucumber,Brand_A,3,1.15,3.4499999999999997,Credit Card
+TXN_33,CUST_232,2023-09-16 08:00:00,Store_D,Pickled Cucumbers,Brand_A,4,2.05,8.2,Mobile Payment
+TXN_34,CUST_174,2023-09-03 08:51:00,Store_C,Cucumber,Brand_C,4,0.83,3.32,Credit Card
+TXN_35,CUST_55,2023-09-07 16:44:00,Store_C,Cucumber,Brand_C,3,1.05,3.1500000000000004,Cash
+TXN_36,CUST_45,2023-09-12 10:08:00,Store_C,Cucumber,Brand_B,4,1.07,4.28,Cash
+TXN_37,CUST_102,2023-09-05 16:36:00,Store_B,Pickled Cucumbers,Brand_A,2,2.73,5.46,Credit Card
+TXN_38,CUST_153,2023-09-01 12:47:00,Store_D,Pickled Cucumbers,Brand_A,3,2.33,6.99,Mobile Payment
+TXN_39,CUST_189,2023-09-22 14:50:00,Store_A,Cucumber,Brand_B,3,1.04,3.12,Credit Card
+TXN_40,CUST_240,2023-09-13 15:12:00,Store_B,Pickled Cucumbers,Brand_A,3,2.97,8.91,Cash
+TXN_41,CUST_240,2023-09-23 08:32:00,Store_C,Pickled Cucumbers,Brand_A,5,2.04,10.2,Cash
+TXN_42,CUST_126,2023-09-28 10:47:00,Store_A,Cucumber,Brand_A,1,1.13,1.13,Credit Card
+TXN_43,CUST_269,2023-09-22 15:52:00,Store_C,Pickled Cucumbers,Brand_A,5,2.76,13.799999999999999,Cash
+TXN_44,CUST_273,2023-09-04 20:26:00,Store_A,Pickled Cucumbers,Brand_C,3,2.08,6.24,Mobile Payment
+TXN_45,CUST_269,2023-09-29 14:04:00,Store_B,Pickled Cucumbers,Brand_A,3,2.65,7.949999999999999,Cash
+TXN_46,CUST_25,2023-09-03 20:38:00,Store_A,Cucumber,Brand_B,3,0.91,2.73,Cash
+TXN_47,CUST_160,2023-09-15 12:47:00,Store_B,Cucumber,Brand_A,1,1.12,1.12,Mobile Payment
+TXN_48,CUST_278,2023-09-22 11:35:00,Store_B,Cucumber,Brand_A,1,1.08,1.08,Cash
+TXN_49,CUST_94,2023-09-22 13:46:00,Store_B,Pickled Cucumbers,Brand_A,3,2.01,6.029999999999999,Cash
+TXN_50,CUST_188,2023-09-20 09:48:00,Store_B,Pickled Cucumbers,Brand_A,5,2.84,14.2,Cash
+TXN_51,CUST_118,2023-09-26 18:15:00,Store_D,Cucumber,Brand_C,2,0.98,1.96,Cash
+TXN_52,CUST_48,2023-09-25 16:46:00,Store_A,Cucumber,Brand_B,1,1.3,1.3,Mobile Payment
+TXN_53,CUST_42,2023-09-07 09:41:00,Store_B,Pickled Cucumbers,Brand_C,1,1.92,1.92,Cash
+TXN_54,CUST_270,2023-09-23 15:19:00,Store_A,Cucumber,Brand_B,5,1.24,6.2,Credit Card
+TXN_55,CUST_27,2023-09-10 18:14:00,Store_A,Cucumber,Brand_A,4,1.01,4.04,Mobile Payment
+TXN_56,CUST_78,2023-09-08 11:26:00,Store_D,Cucumber,Brand_C,3,0.85,2.55,Credit Card
+TXN_57,CUST_150,2023-09-09 16:08:00,Store_D,Cucumber,Brand_A,1,1.28,1.28,Mobile Payment
+TXN_58,CUST_227,2023-09-09 09:43:00,Store_D,Cucumber,Brand_A,4,1.42,5.68,Credit Card
+TXN_59,CUST_206,2023-09-04 14:32:00,Store_B,Pickled Cucumbers,Brand_A,5,2.66,13.3,Mobile Payment
+TXN_60,CUST_233,2023-09-17 15:58:00,Store_C,Pickled Cucumbers,Brand_A,4,2.32,9.28,Cash
+TXN_61,CUST_25,2023-09-04 13:12:00,Store_C,Pickled Cucumbers,Brand_A,5,2.66,13.3,Credit Card
+TXN_62,CUST_193,2023-09-19 19:52:00,Store_A,Pickled Cucumbers,Brand_A,1,2.19,2.19,Credit Card
+TXN_63,CUST_109,2023-09-02 08:34:00,Store_A,Pickled Cucumbers,Brand_B,5,2.03,10.149999999999999,Credit Card
+TXN_64,CUST_114,2023-09-30 08:34:00,Store_B,Cucumber,Brand_A,1,1.07,1.07,Credit Card
+TXN_65,CUST_217,2023-09-06 19:54:00,Store_B,Pickled Cucumbers,Brand_A,1,2.22,2.22,Credit Card
+TXN_66,CUST_152,2023-09-17 13:04:00,Store_A,Pickled Cucumbers,Brand_A,3,2.06,6.18,Mobile Payment
+TXN_67,CUST_225,2023-09-06 19:41:00,Store_A,Pickled Cucumbers,Brand_A,1,2.76,2.76,Credit Card
+TXN_68,CUST_267,2023-09-03 17:08:00,Store_A,Cucumber,Brand_B,3,1.27,3.81,Credit Card
+TXN_69,CUST_264,2023-09-04 09:53:00,Store_D,Pickled Cucumbers,Brand_A,5,2.79,13.95,Credit Card
+TXN_70,CUST_168,2023-09-29 17:50:00,Store_D,Cucumber,Brand_C,4,1.0,4.0,Credit Card
+TXN_71,CUST_124,2023-09-27 12:23:00,Store_B,Pickled Cucumbers,Brand_B,3,1.86,5.58,Cash
+TXN_72,CUST_61,2023-09-14 15:46:00,Store_C,Cucumber,Brand_A,1,1.27,1.27,Cash
+TXN_73,CUST_206,2023-09-12 18:25:00,Store_B,Cucumber,Brand_A,5,1.25,6.25,Credit Card
+TXN_74,CUST_260,2023-09-22 14:48:00,Store_D,Pickled Cucumbers,Brand_B,1,2.49,2.49,Credit Card
+TXN_75,CUST_89,2023-09-30 17:03:00,Store_B,Pickled Cucumbers,Brand_B,2,2.07,4.14,Mobile Payment
+TXN_76,CUST_168,2023-09-04 10:36:00,Store_B,Pickled Cucumbers,Brand_B,5,2.18,10.9,Mobile Payment
+TXN_77,CUST_179,2023-09-22 10:06:00,Store_D,Pickled Cucumbers,Brand_B,4,2.16,8.64,Cash
+TXN_78,CUST_250,2023-09-12 16:03:00,Store_A,Pickled Cucumbers,Brand_A,2,2.66,5.32,Cash
+TXN_79,CUST_21,2023-09-29 17:08:00,Store_B,Cucumber,Brand_A,4,1.17,4.68,Mobile Payment
+TXN_80,CUST_235,2023-09-10 12:53:00,Store_A,Cucumber,Brand_A,5,1.06,5.300000000000001,Credit Card
+TXN_81,CUST_255,2023-09-11 09:49:00,Store_D,Cucumber,Brand_B,1,1.01,1.01,Mobile Payment
+TXN_82,CUST_112,2023-09-16 12:43:00,Store_A,Cucumber,Brand_B,4,1.2,4.8,Cash
+TXN_83,CUST_223,2023-09-17 10:37:00,Store_B,Pickled Cucumbers,Brand_A,1,2.37,2.37,Credit Card
+TXN_84,CUST_15,2023-09-11 18:19:00,Store_C,Cucumber,Brand_A,1,1.3,1.3,Credit Card
+TXN_85,CUST_217,2023-09-29 20:05:00,Store_D,Cucumber,Brand_A,3,1.37,4.11,Credit Card
+TXN_86,CUST_219,2023-09-26 08:21:00,Store_A,Cucumber,Brand_A,4,1.06,4.24,Mobile Payment
+TXN_87,CUST_151,2023-09-30 08:59:00,Store_D,Cucumber,Brand_B,3,1.1,3.3000000000000003,Cash
+TXN_88,CUST_256,2023-09-10 11:35:00,Store_A,Cucumber,Brand_B,4,1.13,4.52,Credit Card
+TXN_89,CUST_162,2023-09-07 09:32:00,Store_C,Cucumber,Brand_B,1,1.34,1.34,Mobile Payment
+TXN_90,CUST_90,2023-09-12 18:44:00,Store_C,Cucumber,Brand_A,5,1.33,6.65,Mobile Payment
+TXN_91,CUST_182,2023-09-11 13:42:00,Store_C,Cucumber,Brand_A,4,1.32,5.28,Cash
+TXN_92,CUST_88,2023-09-19 19:45:00,Store_D,Cucumber,Brand_B,2,1.18,2.36,Mobile Payment
+TXN_93,CUST_90,2023-09-26 09:19:00,Store_B,Pickled Cucumbers,Brand_B,2,2.3,4.6,Credit Card
+TXN_94,CUST_256,2023-09-02 17:39:00,Store_A,Pickled Cucumbers,Brand_A,3,2.35,7.050000000000001,Mobile Payment
+TXN_95,CUST_270,2023-09-28 08:31:00,Store_D,Cucumber,Brand_B,2,1.13,2.26,Cash
+TXN_96,CUST_221,2023-09-18 08:14:00,Store_D,Pickled Cucumbers,Brand_A,2,2.01,4.02,Cash
+TXN_97,CUST_40,2023-09-30 13:09:00,Store_B,Cucumber,Brand_A,1,1.35,1.35,Cash
+TXN_98,CUST_60,2023-09-21 16:36:00,Store_B,Cucumber,Brand_A,4,1.31,5.24,Cash
+TXN_99,CUST_149,2023-09-01 13:52:00,Store_D,Pickled Cucumbers,Brand_A,5,2.22,11.100000000000001,Credit Card
+TXN_100,CUST_226,2023-09-26 18:19:00,Store_D,Cucumber,Brand_A,1,1.38,1.38,Credit Card
+TXN_101,CUST_250,2023-09-05 12:19:00,Store_A,Pickled Cucumbers,Brand_A,3,2.31,6.93,Credit Card
+TXN_102,CUST_171,2023-09-29 16:03:00,Store_B,Pickled Cucumbers,Brand_B,2,2.18,4.36,Mobile Payment
+TXN_103,CUST_74,2023-09-29 20:37:00,Store_B,Pickled Cucumbers,Brand_A,2,2.58,5.16,Credit Card
+TXN_104,CUST_15,2023-09-29 12:43:00,Store_D,Cucumber,Brand_A,4,1.15,4.6,Credit Card
+TXN_105,CUST_3,2023-09-29 14:59:00,Store_C,Pickled Cucumbers,Brand_C,5,1.95,9.75,Cash
+TXN_106,CUST_135,2023-09-15 19:44:00,Store_A,Pickled Cucumbers,Brand_A,5,2.06,10.3,Credit Card
+TXN_107,CUST_239,2023-09-15 11:23:00,Store_C,Pickled Cucumbers,Brand_A,5,2.91,14.55,Cash
+TXN_108,CUST_23,2023-09-02 19:16:00,Store_B,Pickled Cucumbers,Brand_B,2,1.99,3.98,Cash
+TXN_109,CUST_161,2023-09-13 09:28:00,Store_B,Pickled Cucumbers,Brand_A,5,2.43,12.15,Mobile Payment
+TXN_110,CUST_81,2023-09-14 20:05:00,Store_B,Pickled Cucumbers,Brand_A,2,2.2,4.4,Mobile Payment
+TXN_111,CUST_221,2023-09-30 13:37:00,Store_C,Cucumber,Brand_A,3,1.23,3.69,Mobile Payment
+TXN_112,CUST_82,2023-09-11 10:08:00,Store_B,Cucumber,Brand_A,4,1.22,4.88,Credit Card
+TXN_113,CUST_237,2023-09-26 19:37:00,Store_D,Pickled Cucumbers,Brand_C,1,2.12,2.12,Mobile Payment
+TXN_114,CUST_43,2023-09-25 18:16:00,Store_B,Cucumber,Brand_B,2,1.15,2.3,Cash
+TXN_115,CUST_285,2023-09-04 13:06:00,Store_D,Cucumber,Brand_B,5,1.33,6.65,Mobile Payment
+TXN_116,CUST_223,2023-09-30 11:07:00,Store_C,Pickled Cucumbers,Brand_B,5,2.23,11.15,Mobile Payment
+TXN_117,CUST_64,2023-09-23 18:58:00,Store_C,Cucumber,Brand_B,1,1.27,1.27,Credit Card
+TXN_118,CUST_122,2023-09-05 19:26:00,Store_B,Pickled Cucumbers,Brand_A,4,2.17,8.68,Mobile Payment
+TXN_119,CUST_273,2023-09-28 12:54:00,Store_D,Cucumber,Brand_B,1,1.01,1.01,Mobile Payment
+TXN_120,CUST_226,2023-09-06 16:21:00,Store_A,Pickled Cucumbers,Brand_A,2,2.11,4.22,Cash
+TXN_121,CUST_18,2023-09-02 09:46:00,Store_A,Pickled Cucumbers,Brand_B,5,2.05,10.25,Credit Card
+TXN_122,CUST_93,2023-09-21 19:36:00,Store_A,Cucumber,Brand_B,4,1.05,4.2,Cash
+TXN_123,CUST_129,2023-09-20 13:34:00,Store_D,Pickled Cucumbers,Brand_A,4,2.97,11.88,Mobile Payment
+TXN_124,CUST_299,2023-09-20 10:17:00,Store_C,Pickled Cucumbers,Brand_A,2,2.35,4.7,Mobile Payment
+TXN_125,CUST_215,2023-09-12 09:25:00,Store_A,Cucumber,Brand_A,3,1.0,3.0,Credit Card
+TXN_126,CUST_52,2023-09-30 10:28:00,Store_B,Cucumber,Brand_A,3,1.29,3.87,Mobile Payment
+TXN_127,CUST_253,2023-09-17 11:02:00,Store_D,Cucumber,Brand_B,2,1.09,2.18,Credit Card
+TXN_128,CUST_64,2023-09-14 17:50:00,Store_D,Cucumber,Brand_B,5,1.03,5.15,Cash
+TXN_129,CUST_236,2023-09-03 12:38:00,Store_C,Pickled Cucumbers,Brand_A,5,2.99,14.950000000000001,Mobile Payment
+TXN_130,CUST_146,2023-09-18 10:00:00,Store_A,Cucumber,Brand_A,2,1.31,2.62,Cash
+TXN_131,CUST_67,2023-09-01 20:31:00,Store_D,Pickled Cucumbers,Brand_A,4,2.39,9.56,Mobile Payment
+TXN_132,CUST_82,2023-09-14 12:28:00,Store_A,Pickled Cucumbers,Brand_A,5,2.55,12.75,Mobile Payment
+TXN_133,CUST_77,2023-09-11 13:56:00,Store_D,Pickled Cucumbers,Brand_A,4,2.56,10.24,Mobile Payment
+TXN_134,CUST_90,2023-09-10 14:52:00,Store_A,Pickled Cucumbers,Brand_A,5,2.66,13.3,Cash
+TXN_135,CUST_87,2023-09-15 20:47:00,Store_C,Cucumber,Brand_C,4,1.15,4.6,Cash
+TXN_136,CUST_105,2023-09-30 17:23:00,Store_D,Pickled Cucumbers,Brand_A,5,2.91,14.55,Mobile Payment
+TXN_137,CUST_22,2023-09-08 18:22:00,Store_B,Pickled Cucumbers,Brand_A,5,2.26,11.299999999999999,Credit Card
+TXN_138,CUST_296,2023-09-06 15:55:00,Store_B,Cucumber,Brand_B,4,1.11,4.44,Cash
+TXN_139,CUST_257,2023-09-03 09:23:00,Store_D,Cucumber,Brand_A,5,1.25,6.25,Cash
+TXN_140,CUST_209,2023-09-21 11:06:00,Store_D,Cucumber,Brand_C,4,0.92,3.68,Cash
+TXN_141,CUST_291,2023-09-18 13:07:00,Store_D,Pickled Cucumbers,Brand_C,2,2.0,4.0,Mobile Payment
+TXN_142,CUST_49,2023-09-11 11:47:00,Store_D,Pickled Cucumbers,Brand_A,1,2.8,2.8,Cash
+TXN_143,CUST_274,2023-09-09 20:51:00,Store_D,Pickled Cucumbers,Brand_A,2,2.74,5.48,Cash
+TXN_144,CUST_39,2023-09-18 17:02:00,Store_B,Cucumber,Brand_A,4,1.27,5.08,Mobile Payment
+TXN_145,CUST_94,2023-09-10 14:18:00,Store_C,Cucumber,Brand_A,5,1.22,6.1,Mobile Payment
+TXN_146,CUST_293,2023-09-22 11:41:00,Store_A,Pickled Cucumbers,Brand_A,3,2.25,6.75,Mobile Payment
+TXN_147,CUST_179,2023-09-22 20:46:00,Store_B,Cucumber,Brand_B,3,1.1,3.3000000000000003,Mobile Payment
+TXN_148,CUST_217,2023-09-25 13:55:00,Store_C,Pickled Cucumbers,Brand_A,1,2.19,2.19,Mobile Payment
+TXN_149,CUST_219,2023-09-05 15:06:00,Store_A,Pickled Cucumbers,Brand_A,4,2.02,8.08,Cash
+TXN_150,CUST_53,2023-09-30 15:48:00,Store_A,Pickled Cucumbers,Brand_A,5,2.6,13.0,Credit Card
+TXN_151,CUST_174,2023-09-25 13:42:00,Store_B,Pickled Cucumbers,Brand_C,4,2.11,8.44,Mobile Payment
+TXN_152,CUST_267,2023-09-11 12:55:00,Store_C,Pickled Cucumbers,Brand_A,2,2.91,5.82,Cash
+TXN_153,CUST_8,2023-09-11 18:45:00,Store_D,Pickled Cucumbers,Brand_A,5,2.54,12.7,Cash
+TXN_154,CUST_121,2023-09-02 14:50:00,Store_A,Pickled Cucumbers,Brand_A,3,2.56,7.68,Mobile Payment
+TXN_155,CUST_251,2023-09-18 16:25:00,Store_C,Pickled Cucumbers,Brand_C,5,2.06,10.3,Credit Card
+TXN_156,CUST_105,2023-09-23 14:42:00,Store_B,Pickled Cucumbers,Brand_A,5,2.27,11.35,Mobile Payment
+TXN_157,CUST_65,2023-09-17 11:49:00,Store_D,Cucumber,Brand_B,3,1.38,4.14,Mobile Payment
+TXN_158,CUST_30,2023-09-13 12:59:00,Store_B,Pickled Cucumbers,Brand_B,2,2.47,4.94,Cash
+TXN_159,CUST_242,2023-09-06 16:06:00,Store_D,Pickled Cucumbers,Brand_A,3,2.16,6.48,Credit Card
+TXN_160,CUST_37,2023-09-30 19:19:00,Store_D,Cucumber,Brand_B,5,1.15,5.75,Mobile Payment
+TXN_161,CUST_177,2023-09-02 20:24:00,Store_C,Pickled Cucumbers,Brand_A,4,2.56,10.24,Credit Card
+TXN_162,CUST_160,2023-09-14 09:46:00,Store_B,Cucumber,Brand_B,2,0.98,1.96,Credit Card
+TXN_163,CUST_187,2023-09-03 10:39:00,Store_C,Pickled Cucumbers,Brand_B,5,2.41,12.05,Credit Card
+TXN_164,CUST_100,2023-09-08 15:38:00,Store_A,Pickled Cucumbers,Brand_A,5,2.08,10.4,Credit Card
+TXN_165,CUST_12,2023-09-21 16:01:00,Store_C,Cucumber,Brand_A,3,1.49,4.47,Credit Card
+TXN_166,CUST_5,2023-09-05 17:48:00,Store_B,Pickled Cucumbers,Brand_B,3,1.89,5.67,Mobile Payment
+TXN_167,CUST_200,2023-09-07 19:40:00,Store_C,Cucumber,Brand_A,5,1.21,6.05,Mobile Payment
+TXN_168,CUST_119,2023-09-14 14:06:00,Store_C,Cucumber,Brand_A,1,1.07,1.07,Credit Card
+TXN_169,CUST_177,2023-09-28 16:52:00,Store_C,Pickled Cucumbers,Brand_A,1,2.43,2.43,Credit Card
+TXN_170,CUST_140,2023-09-14 10:03:00,Store_D,Cucumber,Brand_A,4,1.36,5.44,Credit Card
+TXN_171,CUST_234,2023-09-18 11:01:00,Store_D,Cucumber,Brand_B,4,1.36,5.44,Cash
+TXN_172,CUST_113,2023-09-23 19:02:00,Store_C,Cucumber,Brand_A,5,1.44,7.199999999999999,Credit Card
+TXN_173,CUST_22,2023-09-14 10:33:00,Store_C,Cucumber,Brand_A,1,1.32,1.32,Credit Card
+TXN_174,CUST_259,2023-09-13 18:33:00,Store_B,Cucumber,Brand_A,2,1.22,2.44,Credit Card
+TXN_175,CUST_125,2023-09-28 19:43:00,Store_B,Pickled Cucumbers,Brand_B,4,1.95,7.8,Credit Card
+TXN_176,CUST_237,2023-09-04 12:11:00,Store_A,Cucumber,Brand_A,3,1.25,3.75,Mobile Payment
+TXN_177,CUST_167,2023-09-23 11:49:00,Store_B,Pickled Cucumbers,Brand_B,2,2.32,4.64,Credit Card
+TXN_178,CUST_127,2023-09-02 09:08:00,Store_A,Pickled Cucumbers,Brand_A,4,2.3,9.2,Cash
+TXN_179,CUST_249,2023-09-16 18:45:00,Store_B,Pickled Cucumbers,Brand_C,5,1.68,8.4,Credit Card
+TXN_180,CUST_126,2023-09-21 19:30:00,Store_A,Pickled Cucumbers,Brand_A,4,2.46,9.84,Credit Card
+TXN_181,CUST_188,2023-09-09 14:05:00,Store_B,Cucumber,Brand_A,1,1.48,1.48,Credit Card
+TXN_182,CUST_292,2023-09-14 10:37:00,Store_D,Pickled Cucumbers,Brand_A,2,2.43,4.86,Credit Card
+TXN_183,CUST_274,2023-09-16 20:21:00,Store_A,Cucumber,Brand_C,4,0.84,3.36,Cash
+TXN_184,CUST_227,2023-09-07 18:46:00,Store_D,Pickled Cucumbers,Brand_B,1,2.21,2.21,Mobile Payment
+TXN_185,CUST_83,2023-09-14 18:32:00,Store_B,Cucumber,Brand_A,3,1.47,4.41,Credit Card
+TXN_186,CUST_164,2023-09-05 12:52:00,Store_C,Pickled Cucumbers,Brand_B,5,2.44,12.2,Mobile Payment
+TXN_187,CUST_185,2023-09-24 12:14:00,Store_C,Pickled Cucumbers,Brand_B,1,2.4,2.4,Mobile Payment
+TXN_188,CUST_78,2023-09-30 20:48:00,Store_C,Cucumber,Brand_A,4,1.48,5.92,Mobile Payment
+TXN_189,CUST_231,2023-09-07 16:38:00,Store_A,Cucumber,Brand_A,5,1.17,5.85,Credit Card
+TXN_190,CUST_16,2023-09-16 13:23:00,Store_C,Cucumber,Brand_A,2,1.04,2.08,Credit Card
+TXN_191,CUST_110,2023-09-29 08:41:00,Store_B,Pickled Cucumbers,Brand_A,5,2.8,14.0,Mobile Payment
+TXN_192,CUST_100,2023-09-23 19:23:00,Store_C,Cucumber,Brand_B,4,1.34,5.36,Credit Card
+TXN_193,CUST_121,2023-09-13 19:44:00,Store_C,Cucumber,Brand_C,5,0.93,4.65,Cash
+TXN_194,CUST_275,2023-09-23 15:32:00,Store_D,Cucumber,Brand_B,4,1.12,4.48,Mobile Payment
+TXN_195,CUST_29,2023-09-13 19:30:00,Store_D,Cucumber,Brand_A,4,1.06,4.24,Cash
+TXN_196,CUST_228,2023-09-29 19:26:00,Store_B,Cucumber,Brand_A,1,1.19,1.19,Cash
+TXN_197,CUST_95,2023-09-28 12:00:00,Store_C,Pickled Cucumbers,Brand_B,5,1.97,9.85,Credit Card
+TXN_198,CUST_98,2023-09-10 17:54:00,Store_D,Pickled Cucumbers,Brand_B,5,1.98,9.9,Cash
+TXN_199,CUST_99,2023-09-11 17:34:00,Store_A,Cucumber,Brand_B,5,1.29,6.45,Credit Card
+TXN_200,CUST_283,2023-09-03 09:02:00,Store_D,Cucumber,Brand_B,3,0.91,2.73,Mobile Payment
+TXN_201,CUST_53,2023-09-11 08:24:00,Store_D,Pickled Cucumbers,Brand_B,3,2.03,6.09,Credit Card
+TXN_202,CUST_235,2023-09-25 18:58:00,Store_A,Pickled Cucumbers,Brand_A,4,2.2,8.8,Cash
+TXN_203,CUST_28,2023-09-25 19:33:00,Store_C,Pickled Cucumbers,Brand_A,5,2.71,13.55,Credit Card
+TXN_204,CUST_55,2023-09-15 10:10:00,Store_A,Pickled Cucumbers,Brand_B,2,2.02,4.04,Cash
+TXN_205,CUST_291,2023-09-28 10:02:00,Store_D,Pickled Cucumbers,Brand_B,1,1.99,1.99,Cash
+TXN_206,CUST_201,2023-09-22 19:25:00,Store_B,Cucumber,Brand_A,5,1.48,7.4,Cash
+TXN_207,CUST_104,2023-09-28 17:00:00,Store_B,Pickled Cucumbers,Brand_A,2,2.04,4.08,Mobile Payment
+TXN_208,CUST_101,2023-09-05 20:08:00,Store_B,Cucumber,Brand_B,5,1.25,6.25,Mobile Payment
+TXN_209,CUST_144,2023-09-05 13:31:00,Store_C,Cucumber,Brand_A,3,1.38,4.14,Mobile Payment
+TXN_210,CUST_108,2023-09-02 17:07:00,Store_A,Pickled Cucumbers,Brand_A,2,2.31,4.62,Mobile Payment
+TXN_211,CUST_76,2023-09-13 18:04:00,Store_A,Cucumber,Brand_A,4,1.19,4.76,Credit Card
+TXN_212,CUST_177,2023-09-30 10:58:00,Store_C,Pickled Cucumbers,Brand_B,4,2.48,9.92,Mobile Payment
+TXN_213,CUST_100,2023-09-13 10:50:00,Store_D,Cucumber,Brand_B,5,1.33,6.65,Mobile Payment
+TXN_214,CUST_198,2023-09-16 16:31:00,Store_C,Pickled Cucumbers,Brand_A,1,2.13,2.13,Credit Card
+TXN_215,CUST_122,2023-09-09 14:32:00,Store_B,Pickled Cucumbers,Brand_B,1,1.81,1.81,Credit Card
+TXN_216,CUST_33,2023-09-05 16:59:00,Store_B,Pickled Cucumbers,Brand_A,1,2.03,2.03,Cash
+TXN_217,CUST_213,2023-09-13 17:09:00,Store_A,Pickled Cucumbers,Brand_A,4,2.22,8.88,Cash
+TXN_218,CUST_283,2023-09-24 17:29:00,Store_C,Cucumber,Brand_B,5,1.02,5.1,Cash
+TXN_219,CUST_153,2023-09-17 11:50:00,Store_D,Pickled Cucumbers,Brand_B,1,2.19,2.19,Credit Card
+TXN_220,CUST_179,2023-09-12 13:15:00,Store_B,Cucumber,Brand_B,4,1.21,4.84,Cash
+TXN_221,CUST_41,2023-09-18 10:40:00,Store_C,Pickled Cucumbers,Brand_B,4,2.31,9.24,Cash
+TXN_222,CUST_79,2023-09-27 09:19:00,Store_B,Cucumber,Brand_A,2,1.43,2.86,Mobile Payment
+TXN_223,CUST_298,2023-09-02 20:29:00,Store_B,Pickled Cucumbers,Brand_A,1,2.2,2.2,Cash
+TXN_224,CUST_63,2023-09-13 19:50:00,Store_C,Cucumber,Brand_A,1,1.12,1.12,Credit Card
+TXN_225,CUST_290,2023-09-20 19:07:00,Store_B,Cucumber,Brand_A,4,1.12,4.48,Mobile Payment
+TXN_226,CUST_189,2023-09-12 13:52:00,Store_A,Cucumber,Brand_A,4,1.39,5.56,Cash
+TXN_227,CUST_167,2023-09-17 14:09:00,Store_A,Pickled Cucumbers,Brand_C,4,1.54,6.16,Credit Card
+TXN_228,CUST_297,2023-09-09 09:02:00,Store_D,Pickled Cucumbers,Brand_A,1,2.94,2.94,Cash
+TXN_229,CUST_289,2023-09-12 19:45:00,Store_C,Pickled Cucumbers,Brand_B,3,1.98,5.9399999999999995,Mobile Payment
+TXN_230,CUST_150,2023-09-01 12:07:00,Store_B,Pickled Cucumbers,Brand_B,3,2.32,6.959999999999999,Credit Card
+TXN_231,CUST_134,2023-09-27 15:01:00,Store_D,Cucumber,Brand_B,5,1.07,5.3500000000000005,Mobile Payment
+TXN_232,CUST_250,2023-09-07 14:06:00,Store_A,Cucumber,Brand_A,5,1.43,7.1499999999999995,Credit Card
+TXN_233,CUST_64,2023-09-26 10:37:00,Store_D,Cucumber,Brand_A,1,1.28,1.28,Mobile Payment
+TXN_234,CUST_294,2023-09-24 10:24:00,Store_A,Cucumber,Brand_A,4,1.4,5.6,Mobile Payment
+TXN_235,CUST_55,2023-09-04 15:57:00,Store_B,Pickled Cucumbers,Brand_A,3,2.38,7.14,Cash
+TXN_236,CUST_58,2023-09-09 19:26:00,Store_C,Pickled Cucumbers,Brand_B,2,1.95,3.9,Credit Card
+TXN_237,CUST_18,2023-09-11 17:59:00,Store_D,Cucumber,Brand_A,1,1.48,1.48,Credit Card
+TXN_238,CUST_233,2023-09-16 15:42:00,Store_C,Pickled Cucumbers,Brand_A,5,2.12,10.600000000000001,Cash
+TXN_239,CUST_279,2023-09-22 10:26:00,Store_C,Pickled Cucumbers,Brand_B,3,1.89,5.67,Mobile Payment
+TXN_240,CUST_166,2023-09-17 13:37:00,Store_D,Cucumber,Brand_A,5,1.38,6.8999999999999995,Cash
+TXN_241,CUST_220,2023-09-27 13:17:00,Store_D,Pickled Cucumbers,Brand_C,4,1.69,6.76,Credit Card
+TXN_242,CUST_280,2023-09-10 20:00:00,Store_A,Pickled Cucumbers,Brand_C,2,1.74,3.48,Credit Card
+TXN_243,CUST_184,2023-09-08 18:51:00,Store_D,Cucumber,Brand_C,2,1.14,2.28,Mobile Payment
+TXN_244,CUST_133,2023-09-17 08:10:00,Store_B,Pickled Cucumbers,Brand_A,5,2.4,12.0,Cash
+TXN_245,CUST_149,2023-09-01 17:18:00,Store_C,Cucumber,Brand_A,5,1.47,7.35,Mobile Payment
+TXN_246,CUST_142,2023-09-18 13:05:00,Store_A,Pickled Cucumbers,Brand_C,4,1.64,6.56,Mobile Payment
+TXN_247,CUST_160,2023-09-10 10:44:00,Store_A,Pickled Cucumbers,Brand_A,3,2.82,8.459999999999999,Mobile Payment
+TXN_248,CUST_153,2023-09-03 16:54:00,Store_A,Cucumber,Brand_C,5,0.82,4.1,Mobile Payment
+TXN_249,CUST_32,2023-09-30 17:41:00,Store_A,Pickled Cucumbers,Brand_C,1,2.17,2.17,Credit Card
+TXN_250,CUST_63,2023-09-22 20:32:00,Store_D,Pickled Cucumbers,Brand_B,5,1.91,9.549999999999999,Mobile Payment
+TXN_251,CUST_286,2023-09-08 11:31:00,Store_A,Cucumber,Brand_A,1,1.38,1.38,Credit Card
+TXN_252,CUST_259,2023-09-01 11:04:00,Store_D,Pickled Cucumbers,Brand_A,1,2.11,2.11,Cash
+TXN_253,CUST_265,2023-09-30 19:59:00,Store_C,Cucumber,Brand_B,4,1.14,4.56,Cash
+TXN_254,CUST_36,2023-09-24 16:09:00,Store_C,Pickled Cucumbers,Brand_A,3,2.83,8.49,Mobile Payment
+TXN_255,CUST_219,2023-09-29 11:39:00,Store_B,Cucumber,Brand_A,5,1.45,7.25,Credit Card
+TXN_256,CUST_205,2023-09-02 15:30:00,Store_D,Cucumber,Brand_A,4,1.32,5.28,Mobile Payment
+TXN_257,CUST_35,2023-09-09 09:07:00,Store_C,Cucumber,Brand_C,4,1.1,4.4,Credit Card
+TXN_258,CUST_62,2023-09-10 16:13:00,Store_C,Cucumber,Brand_B,2,0.92,1.84,Mobile Payment
+TXN_259,CUST_195,2023-09-07 12:17:00,Store_D,Pickled Cucumbers,Brand_A,3,2.04,6.12,Mobile Payment
+TXN_260,CUST_174,2023-09-26 17:55:00,Store_D,Pickled Cucumbers,Brand_A,5,2.96,14.8,Mobile Payment
+TXN_261,CUST_29,2023-09-27 10:30:00,Store_C,Pickled Cucumbers,Brand_B,1,1.95,1.95,Mobile Payment
+TXN_262,CUST_100,2023-09-28 08:50:00,Store_D,Cucumber,Brand_C,4,0.98,3.92,Credit Card
+TXN_263,CUST_236,2023-09-01 20:03:00,Store_A,Cucumber,Brand_A,2,1.49,2.98,Cash
+TXN_264,CUST_281,2023-09-01 18:51:00,Store_A,Pickled Cucumbers,Brand_A,1,2.65,2.65,Credit Card
+TXN_265,CUST_190,2023-09-17 11:12:00,Store_B,Pickled Cucumbers,Brand_B,2,2.33,4.66,Mobile Payment
+TXN_266,CUST_185,2023-09-14 11:07:00,Store_C,Pickled Cucumbers,Brand_B,1,2.27,2.27,Cash
+TXN_267,CUST_181,2023-09-28 20:13:00,Store_A,Pickled Cucumbers,Brand_B,4,2.21,8.84,Credit Card
+TXN_268,CUST_207,2023-09-30 18:02:00,Store_C,Cucumber,Brand_B,2,1.04,2.08,Credit Card
+TXN_269,CUST_41,2023-09-06 16:14:00,Store_A,Cucumber,Brand_A,2,1.19,2.38,Credit Card
+TXN_270,CUST_253,2023-09-26 19:55:00,Store_C,Pickled Cucumbers,Brand_A,2,2.63,5.26,Credit Card
+TXN_271,CUST_103,2023-09-25 09:54:00,Store_D,Cucumber,Brand_B,2,1.17,2.34,Credit Card
+TXN_272,CUST_78,2023-09-30 20:17:00,Store_A,Cucumber,Brand_B,2,0.91,1.82,Credit Card
+TXN_273,CUST_103,2023-09-04 17:16:00,Store_A,Pickled Cucumbers,Brand_B,1,2.38,2.38,Cash
+TXN_274,CUST_94,2023-09-12 16:32:00,Store_B,Cucumber,Brand_C,5,0.95,4.75,Cash
+TXN_275,CUST_132,2023-09-22 14:05:00,Store_D,Pickled Cucumbers,Brand_A,4,2.14,8.56,Mobile Payment
+TXN_276,CUST_208,2023-09-05 19:49:00,Store_B,Cucumber,Brand_A,1,1.34,1.34,Credit Card
+TXN_277,CUST_224,2023-09-21 08:11:00,Store_C,Cucumber,Brand_B,5,1.16,5.8,Mobile Payment
+TXN_278,CUST_11,2023-09-22 17:53:00,Store_B,Cucumber,Brand_B,1,1.18,1.18,Cash
+TXN_279,CUST_155,2023-09-01 18:25:00,Store_D,Pickled Cucumbers,Brand_B,5,2.3,11.5,Cash
+TXN_280,CUST_11,2023-09-18 10:42:00,Store_B,Cucumber,Brand_B,1,1.0,1.0,Credit Card
+TXN_281,CUST_66,2023-09-29 10:06:00,Store_B,Pickled Cucumbers,Brand_B,5,1.93,9.65,Credit Card
+TXN_282,CUST_34,2023-09-19 14:13:00,Store_D,Cucumber,Brand_A,2,1.02,2.04,Mobile Payment
+TXN_283,CUST_208,2023-09-28 08:54:00,Store_D,Cucumber,Brand_A,1,1.28,1.28,Mobile Payment
+TXN_284,CUST_264,2023-09-03 09:41:00,Store_C,Pickled Cucumbers,Brand_A,4,2.43,9.72,Credit Card
+TXN_285,CUST_239,2023-09-23 13:18:00,Store_C,Cucumber,Brand_A,2,1.44,2.88,Cash
+TXN_286,CUST_213,2023-09-16 20:33:00,Store_B,Pickled Cucumbers,Brand_A,2,2.23,4.46,Mobile Payment
+TXN_287,CUST_138,2023-09-22 11:10:00,Store_D,Cucumber,Brand_A,1,1.28,1.28,Cash
+TXN_288,CUST_129,2023-09-19 15:22:00,Store_A,Pickled Cucumbers,Brand_A,1,2.63,2.63,Credit Card
+TXN_289,CUST_283,2023-09-11 18:33:00,Store_B,Pickled Cucumbers,Brand_A,1,2.58,2.58,Cash
+TXN_290,CUST_300,2023-09-21 20:09:00,Store_D,Cucumber,Brand_A,2,1.35,2.7,Cash
+TXN_291,CUST_270,2023-09-29 11:40:00,Store_B,Pickled Cucumbers,Brand_A,5,2.5,12.5,Credit Card
+TXN_292,CUST_81,2023-09-28 14:33:00,Store_D,Cucumber,Brand_A,3,1.31,3.93,Mobile Payment
+TXN_293,CUST_296,2023-09-21 08:11:00,Store_B,Pickled Cucumbers,Brand_B,1,2.14,2.14,Mobile Payment
+TXN_294,CUST_298,2023-09-08 15:21:00,Store_C,Pickled Cucumbers,Brand_A,3,2.8,8.399999999999999,Credit Card
+TXN_295,CUST_47,2023-09-20 17:49:00,Store_A,Pickled Cucumbers,Brand_A,2,2.23,4.46,Mobile Payment
+TXN_296,CUST_180,2023-09-14 17:09:00,Store_D,Cucumber,Brand_A,2,1.46,2.92,Mobile Payment
+TXN_297,CUST_234,2023-09-16 14:19:00,Store_C,Pickled Cucumbers,Brand_B,3,2.33,6.99,Mobile Payment
+TXN_298,CUST_97,2023-09-21 18:36:00,Store_B,Pickled Cucumbers,Brand_A,4,2.62,10.48,Cash
+TXN_299,CUST_252,2023-09-21 16:45:00,Store_B,Pickled Cucumbers,Brand_B,4,2.19,8.76,Mobile Payment
+TXN_300,CUST_7,2023-09-16 18:33:00,Store_D,Cucumber,Brand_A,1,1.15,1.15,Cash
+TXN_301,CUST_164,2023-09-12 12:38:00,Store_B,Cucumber,Brand_A,3,1.31,3.93,Cash
+TXN_302,CUST_182,2023-09-01 19:58:00,Store_C,Pickled Cucumbers,Brand_A,4,2.76,11.04,Credit Card
+TXN_303,CUST_35,2023-09-17 12:34:00,Store_B,Pickled Cucumbers,Brand_A,2,2.66,5.32,Mobile Payment
+TXN_304,CUST_113,2023-09-24 08:47:00,Store_A,Cucumber,Brand_B,4,1.0,4.0,Cash
+TXN_305,CUST_63,2023-09-17 13:03:00,Store_A,Pickled Cucumbers,Brand_B,4,2.28,9.12,Cash
+TXN_306,CUST_50,2023-09-25 17:19:00,Store_C,Cucumber,Brand_C,2,0.85,1.7,Mobile Payment
+TXN_307,CUST_71,2023-09-23 11:30:00,Store_D,Pickled Cucumbers,Brand_A,1,2.29,2.29,Mobile Payment
+TXN_308,CUST_271,2023-09-05 19:20:00,Store_B,Pickled Cucumbers,Brand_A,3,2.86,8.58,Mobile Payment
+TXN_309,CUST_34,2023-09-25 20:10:00,Store_C,Pickled Cucumbers,Brand_B,3,1.85,5.550000000000001,Mobile Payment
+TXN_310,CUST_85,2023-09-16 10:00:00,Store_C,Pickled Cucumbers,Brand_A,5,2.46,12.3,Mobile Payment
+TXN_311,CUST_121,2023-09-14 18:13:00,Store_B,Cucumber,Brand_A,2,1.27,2.54,Mobile Payment
+TXN_312,CUST_113,2023-09-12 18:53:00,Store_D,Pickled Cucumbers,Brand_A,3,2.31,6.93,Cash
+TXN_313,CUST_104,2023-09-22 17:34:00,Store_B,Pickled Cucumbers,Brand_A,3,2.43,7.290000000000001,Cash
+TXN_314,CUST_211,2023-09-23 11:54:00,Store_A,Pickled Cucumbers,Brand_C,5,2.07,10.35,Mobile Payment
+TXN_315,CUST_53,2023-09-02 11:50:00,Store_A,Cucumber,Brand_B,4,1.06,4.24,Credit Card
+TXN_316,CUST_8,2023-09-17 15:01:00,Store_C,Pickled Cucumbers,Brand_B,2,2.39,4.78,Cash
+TXN_317,CUST_138,2023-09-09 11:58:00,Store_C,Pickled Cucumbers,Brand_A,1,2.0,2.0,Credit Card
+TXN_318,CUST_298,2023-09-28 11:07:00,Store_C,Cucumber,Brand_A,5,1.01,5.05,Credit Card
+TXN_319,CUST_225,2023-09-04 16:45:00,Store_C,Cucumber,Brand_A,5,1.32,6.6000000000000005,Cash
+TXN_320,CUST_63,2023-09-08 10:20:00,Store_B,Pickled Cucumbers,Brand_A,3,2.36,7.08,Credit Card
+TXN_321,CUST_82,2023-09-07 17:35:00,Store_B,Pickled Cucumbers,Brand_A,2,2.82,5.64,Cash
+TXN_322,CUST_47,2023-09-05 10:38:00,Store_C,Pickled Cucumbers,Brand_B,1,1.98,1.98,Credit Card
+TXN_323,CUST_219,2023-09-04 18:20:00,Store_A,Pickled Cucumbers,Brand_B,2,2.15,4.3,Credit Card
+TXN_324,CUST_93,2023-09-04 13:49:00,Store_C,Pickled Cucumbers,Brand_A,1,2.97,2.97,Cash
+TXN_325,CUST_277,2023-09-30 17:22:00,Store_A,Cucumber,Brand_C,4,0.85,3.4,Mobile Payment
+TXN_326,CUST_70,2023-09-21 11:23:00,Store_C,Cucumber,Brand_B,4,1.32,5.28,Cash
+TXN_327,CUST_158,2023-09-24 15:20:00,Store_A,Cucumber,Brand_A,3,1.1,3.3000000000000003,Credit Card
+TXN_328,CUST_166,2023-09-05 20:24:00,Store_A,Pickled Cucumbers,Brand_B,5,1.83,9.15,Credit Card
+TXN_329,CUST_150,2023-09-08 19:10:00,Store_C,Pickled Cucumbers,Brand_A,4,2.45,9.8,Credit Card
+TXN_330,CUST_292,2023-09-09 20:22:00,Store_B,Pickled Cucumbers,Brand_A,4,2.16,8.64,Credit Card
+TXN_331,CUST_226,2023-09-21 08:25:00,Store_B,Pickled Cucumbers,Brand_A,4,2.97,11.88,Mobile Payment
+TXN_332,CUST_131,2023-09-13 15:20:00,Store_C,Pickled Cucumbers,Brand_B,2,2.29,4.58,Credit Card
+TXN_333,CUST_224,2023-09-01 16:36:00,Store_D,Cucumber,Brand_A,3,1.26,3.7800000000000002,Mobile Payment
+TXN_334,CUST_128,2023-09-20 08:38:00,Store_A,Cucumber,Brand_A,3,1.33,3.99,Cash
+TXN_335,CUST_207,2023-09-04 11:57:00,Store_B,Cucumber,Brand_A,5,1.42,7.1,Cash
+TXN_336,CUST_254,2023-09-28 17:38:00,Store_D,Pickled Cucumbers,Brand_A,1,2.82,2.82,Cash
+TXN_337,CUST_269,2023-09-16 14:21:00,Store_A,Cucumber,Brand_B,5,1.05,5.25,Cash
+TXN_338,CUST_264,2023-09-23 14:37:00,Store_A,Cucumber,Brand_B,1,0.92,0.92,Mobile Payment
+TXN_339,CUST_38,2023-09-17 13:19:00,Store_A,Pickled Cucumbers,Brand_A,2,2.04,4.08,Credit Card
+TXN_340,CUST_73,2023-09-23 08:21:00,Store_A,Pickled Cucumbers,Brand_A,3,2.57,7.709999999999999,Credit Card
+TXN_341,CUST_163,2023-09-08 15:08:00,Store_D,Pickled Cucumbers,Brand_A,3,2.26,6.779999999999999,Cash
+TXN_342,CUST_202,2023-09-11 09:26:00,Store_B,Cucumber,Brand_A,2,1.39,2.78,Cash
+TXN_343,CUST_126,2023-09-08 18:36:00,Store_D,Pickled Cucumbers,Brand_A,3,2.96,8.879999999999999,Mobile Payment
+TXN_344,CUST_268,2023-09-08 09:21:00,Store_B,Pickled Cucumbers,Brand_A,1,2.42,2.42,Mobile Payment
+TXN_345,CUST_116,2023-09-22 10:39:00,Store_B,Cucumber,Brand_A,2,1.07,2.14,Mobile Payment
+TXN_346,CUST_220,2023-09-22 17:56:00,Store_B,Pickled Cucumbers,Brand_B,5,2.17,10.85,Mobile Payment
+TXN_347,CUST_266,2023-09-05 09:44:00,Store_B,Pickled Cucumbers,Brand_B,2,1.97,3.94,Mobile Payment
+TXN_348,CUST_84,2023-09-08 17:13:00,Store_B,Pickled Cucumbers,Brand_A,1,2.75,2.75,Credit Card
+TXN_349,CUST_244,2023-09-18 18:47:00,Store_C,Pickled Cucumbers,Brand_A,4,2.13,8.52,Credit Card
+TXN_350,CUST_223,2023-09-01 12:35:00,Store_B,Pickled Cucumbers,Brand_B,2,2.04,4.08,Mobile Payment
+TXN_351,CUST_33,2023-09-07 19:20:00,Store_B,Cucumber,Brand_A,2,1.26,2.52,Cash
+TXN_352,CUST_269,2023-09-09 08:01:00,Store_A,Cucumber,Brand_B,3,1.26,3.7800000000000002,Mobile Payment
+TXN_353,CUST_211,2023-09-21 10:00:00,Store_C,Cucumber,Brand_B,2,1.19,2.38,Mobile Payment
+TXN_354,CUST_65,2023-09-27 10:05:00,Store_B,Pickled Cucumbers,Brand_A,3,2.46,7.38,Credit Card
+TXN_355,CUST_236,2023-09-26 17:58:00,Store_B,Pickled Cucumbers,Brand_A,2,2.64,5.28,Mobile Payment
+TXN_356,CUST_121,2023-09-30 19:19:00,Store_B,Pickled Cucumbers,Brand_B,3,1.83,5.49,Credit Card
+TXN_357,CUST_263,2023-09-15 11:54:00,Store_B,Pickled Cucumbers,Brand_A,3,2.87,8.61,Cash
+TXN_358,CUST_283,2023-09-20 13:52:00,Store_A,Pickled Cucumbers,Brand_A,2,2.1,4.2,Credit Card
+TXN_359,CUST_257,2023-09-19 10:48:00,Store_C,Pickled Cucumbers,Brand_C,4,2.19,8.76,Mobile Payment
+TXN_360,CUST_37,2023-09-16 18:07:00,Store_B,Pickled Cucumbers,Brand_A,5,2.95,14.75,Credit Card
+TXN_361,CUST_8,2023-09-29 19:40:00,Store_A,Cucumber,Brand_A,5,1.09,5.45,Mobile Payment
+TXN_362,CUST_136,2023-09-16 18:13:00,Store_D,Cucumber,Brand_B,4,0.93,3.72,Mobile Payment
+TXN_363,CUST_38,2023-09-21 19:06:00,Store_C,Pickled Cucumbers,Brand_A,3,2.66,7.98,Cash
+TXN_364,CUST_158,2023-09-08 12:10:00,Store_C,Pickled Cucumbers,Brand_A,3,2.58,7.74,Mobile Payment
+TXN_365,CUST_176,2023-09-23 10:02:00,Store_A,Pickled Cucumbers,Brand_C,5,2.1,10.5,Mobile Payment
+TXN_366,CUST_67,2023-09-04 18:33:00,Store_D,Pickled Cucumbers,Brand_A,2,2.66,5.32,Cash
+TXN_367,CUST_134,2023-09-11 16:20:00,Store_C,Pickled Cucumbers,Brand_C,1,1.85,1.85,Cash
+TXN_368,CUST_156,2023-09-01 08:25:00,Store_A,Cucumber,Brand_C,1,0.99,0.99,Cash
+TXN_369,CUST_68,2023-09-17 15:40:00,Store_C,Pickled Cucumbers,Brand_A,4,2.34,9.36,Credit Card
+TXN_370,CUST_282,2023-09-06 19:03:00,Store_D,Pickled Cucumbers,Brand_A,5,2.6,13.0,Mobile Payment
+TXN_371,CUST_130,2023-09-01 18:31:00,Store_C,Pickled Cucumbers,Brand_A,4,2.96,11.84,Credit Card
+TXN_372,CUST_146,2023-09-07 17:16:00,Store_B,Pickled Cucumbers,Brand_A,1,2.79,2.79,Mobile Payment
+TXN_373,CUST_232,2023-09-22 14:29:00,Store_A,Pickled Cucumbers,Brand_A,3,2.6,7.800000000000001,Credit Card
+TXN_374,CUST_273,2023-09-08 11:56:00,Store_A,Pickled Cucumbers,Brand_B,3,1.87,5.61,Cash
+TXN_375,CUST_115,2023-09-27 16:23:00,Store_C,Cucumber,Brand_A,4,1.34,5.36,Credit Card
+TXN_376,CUST_42,2023-09-29 10:51:00,Store_B,Cucumber,Brand_A,1,1.2,1.2,Cash
+TXN_377,CUST_115,2023-09-08 16:21:00,Store_A,Cucumber,Brand_B,1,1.28,1.28,Cash
+TXN_378,CUST_117,2023-09-23 20:00:00,Store_A,Pickled Cucumbers,Brand_A,2,2.59,5.18,Cash
+TXN_379,CUST_203,2023-09-07 09:40:00,Store_C,Cucumber,Brand_B,3,1.3,3.9000000000000004,Credit Card
+TXN_380,CUST_88,2023-09-26 13:28:00,Store_B,Cucumber,Brand_A,3,1.44,4.32,Cash
+TXN_381,CUST_11,2023-09-09 14:23:00,Store_C,Cucumber,Brand_A,3,1.43,4.29,Mobile Payment
+TXN_382,CUST_245,2023-09-05 18:41:00,Store_B,Cucumber,Brand_B,1,1.3,1.3,Cash
+TXN_383,CUST_51,2023-09-16 10:55:00,Store_B,Pickled Cucumbers,Brand_B,5,2.42,12.1,Credit Card
+TXN_384,CUST_39,2023-09-05 14:51:00,Store_D,Cucumber,Brand_B,1,1.25,1.25,Mobile Payment
+TXN_385,CUST_84,2023-09-12 09:03:00,Store_A,Pickled Cucumbers,Brand_B,1,1.94,1.94,Mobile Payment
+TXN_386,CUST_49,2023-09-17 16:10:00,Store_D,Pickled Cucumbers,Brand_B,5,2.42,12.1,Mobile Payment
+TXN_387,CUST_204,2023-09-29 10:28:00,Store_D,Cucumber,Brand_A,5,1.06,5.300000000000001,Credit Card
+TXN_388,CUST_253,2023-09-26 15:56:00,Store_D,Pickled Cucumbers,Brand_A,1,2.29,2.29,Mobile Payment
+TXN_389,CUST_274,2023-09-22 12:24:00,Store_B,Cucumber,Brand_B,2,1.28,2.56,Mobile Payment
+TXN_390,CUST_93,2023-09-27 20:07:00,Store_D,Pickled Cucumbers,Brand_B,2,1.9,3.8,Mobile Payment
+TXN_391,CUST_186,2023-09-10 08:33:00,Store_A,Pickled Cucumbers,Brand_C,1,2.27,2.27,Credit Card
+TXN_392,CUST_289,2023-09-11 13:14:00,Store_D,Cucumber,Brand_A,5,1.01,5.05,Cash
+TXN_393,CUST_67,2023-09-03 09:52:00,Store_D,Pickled Cucumbers,Brand_A,3,2.21,6.63,Cash
+TXN_394,CUST_152,2023-09-08 18:00:00,Store_A,Cucumber,Brand_B,2,1.38,2.76,Credit Card
+TXN_395,CUST_104,2023-09-22 13:39:00,Store_D,Pickled Cucumbers,Brand_A,5,2.43,12.15,Cash
+TXN_396,CUST_148,2023-09-24 09:26:00,Store_C,Cucumber,Brand_C,5,0.98,4.9,Cash
+TXN_397,CUST_117,2023-09-26 20:21:00,Store_A,Cucumber,Brand_B,2,1.14,2.28,Cash
+TXN_398,CUST_130,2023-09-05 20:06:00,Store_C,Cucumber,Brand_A,5,1.21,6.05,Cash
+TXN_399,CUST_183,2023-09-26 10:51:00,Store_B,Cucumber,Brand_B,2,1.27,2.54,Credit Card
+TXN_400,CUST_207,2023-09-14 17:01:00,Store_C,Cucumber,Brand_B,1,1.18,1.18,Mobile Payment
+TXN_401,CUST_89,2023-09-22 18:04:00,Store_A,Pickled Cucumbers,Brand_A,3,2.52,7.5600000000000005,Cash
+TXN_402,CUST_55,2023-09-21 19:32:00,Store_C,Pickled Cucumbers,Brand_C,2,1.91,3.82,Credit Card
+TXN_403,CUST_207,2023-09-03 11:30:00,Store_D,Pickled Cucumbers,Brand_A,5,2.46,12.3,Cash
+TXN_404,CUST_92,2023-09-02 09:28:00,Store_B,Pickled Cucumbers,Brand_B,5,1.85,9.25,Mobile Payment
+TXN_405,CUST_250,2023-09-20 20:48:00,Store_A,Pickled Cucumbers,Brand_A,5,2.1,10.5,Cash
+TXN_406,CUST_84,2023-09-01 17:16:00,Store_A,Cucumber,Brand_B,4,0.98,3.92,Credit Card
+TXN_407,CUST_5,2023-09-08 20:15:00,Store_B,Cucumber,Brand_A,3,1.04,3.12,Cash
+TXN_408,CUST_251,2023-09-20 20:33:00,Store_A,Cucumber,Brand_A,4,1.31,5.24,Cash
+TXN_409,CUST_271,2023-09-21 14:21:00,Store_B,Pickled Cucumbers,Brand_C,1,2.2,2.2,Credit Card
+TXN_410,CUST_176,2023-09-08 17:12:00,Store_A,Pickled Cucumbers,Brand_A,4,2.12,8.48,Cash
+TXN_411,CUST_77,2023-09-26 11:21:00,Store_B,Pickled Cucumbers,Brand_A,4,2.35,9.4,Credit Card
+TXN_412,CUST_37,2023-09-27 18:29:00,Store_B,Pickled Cucumbers,Brand_C,5,1.86,9.3,Cash
+TXN_413,CUST_278,2023-09-23 12:00:00,Store_D,Cucumber,Brand_C,5,0.98,4.9,Mobile Payment
+TXN_414,CUST_115,2023-09-17 13:13:00,Store_D,Pickled Cucumbers,Brand_A,2,2.46,4.92,Credit Card
+TXN_415,CUST_151,2023-09-11 14:42:00,Store_C,Cucumber,Brand_B,2,0.94,1.88,Mobile Payment
+TXN_416,CUST_84,2023-09-13 10:33:00,Store_A,Pickled Cucumbers,Brand_A,3,2.19,6.57,Cash
+TXN_417,CUST_239,2023-09-23 14:14:00,Store_B,Pickled Cucumbers,Brand_A,4,2.67,10.68,Cash
+TXN_418,CUST_68,2023-09-24 19:57:00,Store_B,Cucumber,Brand_A,1,1.21,1.21,Cash
+TXN_419,CUST_2,2023-09-10 08:00:00,Store_B,Cucumber,Brand_B,1,1.09,1.09,Credit Card
+TXN_420,CUST_60,2023-09-13 09:02:00,Store_D,Cucumber,Brand_B,2,1.15,2.3,Credit Card
+TXN_421,CUST_216,2023-09-08 08:48:00,Store_C,Cucumber,Brand_B,4,0.92,3.68,Cash
+TXN_422,CUST_32,2023-09-02 11:08:00,Store_B,Pickled Cucumbers,Brand_B,5,1.95,9.75,Mobile Payment
+TXN_423,CUST_56,2023-09-17 11:56:00,Store_C,Cucumber,Brand_A,1,1.24,1.24,Cash
+TXN_424,CUST_15,2023-09-04 15:36:00,Store_C,Pickled Cucumbers,Brand_A,1,2.29,2.29,Credit Card
+TXN_425,CUST_68,2023-09-20 08:08:00,Store_D,Cucumber,Brand_A,2,1.13,2.26,Cash
+TXN_426,CUST_98,2023-09-24 15:24:00,Store_C,Pickled Cucumbers,Brand_A,3,2.56,7.68,Credit Card
+TXN_427,CUST_186,2023-09-03 09:52:00,Store_D,Pickled Cucumbers,Brand_A,3,2.3,6.8999999999999995,Mobile Payment
+TXN_428,CUST_123,2023-09-30 17:12:00,Store_C,Pickled Cucumbers,Brand_B,4,1.98,7.92,Credit Card
+TXN_429,CUST_199,2023-09-25 08:32:00,Store_C,Pickled Cucumbers,Brand_A,3,2.51,7.529999999999999,Cash
+TXN_430,CUST_59,2023-09-28 20:23:00,Store_A,Cucumber,Brand_A,4,1.32,5.28,Credit Card
+TXN_431,CUST_255,2023-09-07 11:25:00,Store_B,Cucumber,Brand_A,2,1.1,2.2,Credit Card
+TXN_432,CUST_119,2023-09-08 20:48:00,Store_A,Cucumber,Brand_B,4,0.91,3.64,Cash
+TXN_433,CUST_177,2023-09-07 17:29:00,Store_B,Pickled Cucumbers,Brand_B,2,2.23,4.46,Cash
+TXN_434,CUST_194,2023-09-12 11:20:00,Store_A,Pickled Cucumbers,Brand_A,5,2.39,11.950000000000001,Credit Card
+TXN_435,CUST_285,2023-09-07 09:41:00,Store_B,Cucumber,Brand_A,5,1.26,6.3,Cash
+TXN_436,CUST_267,2023-09-12 13:44:00,Store_B,Pickled Cucumbers,Brand_B,3,2.35,7.050000000000001,Credit Card
+TXN_437,CUST_138,2023-09-29 14:52:00,Store_B,Pickled Cucumbers,Brand_A,2,2.69,5.38,Mobile Payment
+TXN_438,CUST_218,2023-09-16 10:46:00,Store_A,Cucumber,Brand_B,2,0.98,1.96,Mobile Payment
+TXN_439,CUST_57,2023-09-23 09:15:00,Store_C,Pickled Cucumbers,Brand_B,2,2.28,4.56,Cash
+TXN_440,CUST_217,2023-09-14 08:33:00,Store_A,Pickled Cucumbers,Brand_A,2,2.63,5.26,Cash
+TXN_441,CUST_201,2023-09-04 20:57:00,Store_B,Cucumber,Brand_A,3,1.12,3.3600000000000003,Cash
+TXN_442,CUST_237,2023-09-15 16:08:00,Store_A,Cucumber,Brand_C,5,0.88,4.4,Cash
+TXN_443,CUST_23,2023-09-06 12:28:00,Store_A,Cucumber,Brand_A,1,1.36,1.36,Mobile Payment
+TXN_444,CUST_43,2023-09-06 10:16:00,Store_A,Cucumber,Brand_A,2,1.05,2.1,Mobile Payment
+TXN_445,CUST_60,2023-09-21 13:38:00,Store_C,Cucumber,Brand_B,5,1.36,6.800000000000001,Credit Card
+TXN_446,CUST_27,2023-09-25 20:07:00,Store_A,Cucumber,Brand_C,4,1.01,4.04,Mobile Payment
+TXN_447,CUST_198,2023-09-15 14:01:00,Store_D,Pickled Cucumbers,Brand_C,4,1.98,7.92,Credit Card
+TXN_448,CUST_134,2023-09-12 20:47:00,Store_C,Pickled Cucumbers,Brand_B,4,2.1,8.4,Cash
+TXN_449,CUST_152,2023-09-21 16:59:00,Store_D,Cucumber,Brand_A,1,1.5,1.5,Credit Card
+TXN_450,CUST_276,2023-09-13 18:17:00,Store_C,Pickled Cucumbers,Brand_A,5,2.14,10.700000000000001,Credit Card
+TXN_451,CUST_248,2023-09-02 14:57:00,Store_A,Cucumber,Brand_B,4,1.24,4.96,Mobile Payment
+TXN_452,CUST_273,2023-09-07 16:13:00,Store_D,Cucumber,Brand_A,4,1.19,4.76,Mobile Payment
+TXN_453,CUST_124,2023-09-04 09:50:00,Store_D,Cucumber,Brand_A,5,1.28,6.4,Cash
+TXN_454,CUST_74,2023-09-01 10:20:00,Store_C,Cucumber,Brand_C,1,0.87,0.87,Mobile Payment
+TXN_455,CUST_33,2023-09-22 15:55:00,Store_D,Cucumber,Brand_A,3,1.11,3.33,Cash
+TXN_456,CUST_136,2023-09-08 20:38:00,Store_C,Cucumber,Brand_A,2,1.22,2.44,Mobile Payment
+TXN_457,CUST_282,2023-09-01 09:22:00,Store_C,Pickled Cucumbers,Brand_A,4,2.05,8.2,Mobile Payment
+TXN_458,CUST_236,2023-09-29 09:43:00,Store_B,Pickled Cucumbers,Brand_A,2,2.73,5.46,Credit Card
+TXN_459,CUST_232,2023-09-13 08:55:00,Store_C,Cucumber,Brand_A,2,1.1,2.2,Mobile Payment
+TXN_460,CUST_83,2023-09-08 14:17:00,Store_D,Pickled Cucumbers,Brand_A,3,2.29,6.87,Mobile Payment
+TXN_461,CUST_179,2023-09-30 17:29:00,Store_A,Cucumber,Brand_A,4,1.18,4.72,Cash
+TXN_462,CUST_145,2023-09-02 12:30:00,Store_B,Cucumber,Brand_B,5,1.01,5.05,Mobile Payment
+TXN_463,CUST_51,2023-09-09 13:01:00,Store_C,Pickled Cucumbers,Brand_B,4,1.95,7.8,Cash
+TXN_464,CUST_55,2023-09-14 10:14:00,Store_A,Cucumber,Brand_A,2,1.47,2.94,Mobile Payment
+TXN_465,CUST_11,2023-09-12 20:15:00,Store_D,Cucumber,Brand_C,4,1.06,4.24,Credit Card
+TXN_466,CUST_272,2023-09-07 10:00:00,Store_B,Pickled Cucumbers,Brand_A,3,2.9,8.7,Mobile Payment
+TXN_467,CUST_198,2023-09-16 14:05:00,Store_D,Pickled Cucumbers,Brand_A,3,2.06,6.18,Cash
+TXN_468,CUST_222,2023-09-07 08:50:00,Store_A,Cucumber,Brand_B,5,1.28,6.4,Credit Card
+TXN_469,CUST_15,2023-09-13 14:24:00,Store_B,Cucumber,Brand_A,5,1.11,5.550000000000001,Credit Card
+TXN_470,CUST_86,2023-09-06 08:28:00,Store_D,Pickled Cucumbers,Brand_C,4,2.01,8.04,Cash
+TXN_471,CUST_102,2023-09-10 11:34:00,Store_D,Cucumber,Brand_A,5,1.09,5.45,Credit Card
+TXN_472,CUST_166,2023-09-27 08:59:00,Store_C,Pickled Cucumbers,Brand_C,2,2.25,4.5,Mobile Payment
+TXN_473,CUST_213,2023-09-03 08:52:00,Store_A,Cucumber,Brand_A,1,1.06,1.06,Mobile Payment
+TXN_474,CUST_152,2023-09-27 19:01:00,Store_D,Cucumber,Brand_B,1,0.91,0.91,Mobile Payment
+TXN_475,CUST_222,2023-09-15 19:42:00,Store_B,Pickled Cucumbers,Brand_A,4,2.23,8.92,Cash
+TXN_476,CUST_273,2023-09-19 19:09:00,Store_C,Cucumber,Brand_C,5,0.97,4.85,Cash
+TXN_477,CUST_104,2023-09-05 09:51:00,Store_C,Pickled Cucumbers,Brand_A,5,2.96,14.8,Cash
+TXN_478,CUST_277,2023-09-09 17:08:00,Store_C,Pickled Cucumbers,Brand_A,2,2.66,5.32,Mobile Payment
+TXN_479,CUST_92,2023-09-19 09:27:00,Store_A,Cucumber,Brand_C,1,0.93,0.93,Credit Card
+TXN_480,CUST_295,2023-09-16 18:09:00,Store_B,Cucumber,Brand_A,2,1.3,2.6,Cash
+TXN_481,CUST_62,2023-09-27 13:47:00,Store_C,Cucumber,Brand_B,3,0.99,2.9699999999999998,Mobile Payment
+TXN_482,CUST_92,2023-09-18 10:39:00,Store_D,Pickled Cucumbers,Brand_B,5,2.38,11.899999999999999,Cash
+TXN_483,CUST_241,2023-09-27 10:30:00,Store_B,Cucumber,Brand_A,1,1.32,1.32,Mobile Payment
+TXN_484,CUST_23,2023-09-01 12:01:00,Store_D,Cucumber,Brand_B,1,1.12,1.12,Credit Card
+TXN_485,CUST_203,2023-09-05 18:29:00,Store_A,Cucumber,Brand_A,3,1.01,3.0300000000000002,Cash
+TXN_486,CUST_89,2023-09-25 10:41:00,Store_A,Cucumber,Brand_C,4,1.2,4.8,Cash
+TXN_487,CUST_229,2023-09-10 11:58:00,Store_C,Cucumber,Brand_A,3,1.31,3.93,Mobile Payment
+TXN_488,CUST_187,2023-09-05 12:14:00,Store_A,Cucumber,Brand_A,4,1.12,4.48,Mobile Payment
+TXN_489,CUST_163,2023-09-29 15:50:00,Store_D,Cucumber,Brand_C,1,1.0,1.0,Cash
+TXN_490,CUST_176,2023-09-26 11:32:00,Store_C,Pickled Cucumbers,Brand_B,5,2.03,10.149999999999999,Credit Card
+TXN_491,CUST_185,2023-09-14 20:28:00,Store_A,Cucumber,Brand_A,2,1.21,2.42,Cash
+TXN_492,CUST_259,2023-09-29 11:27:00,Store_B,Pickled Cucumbers,Brand_B,1,2.38,2.38,Mobile Payment
+TXN_493,CUST_58,2023-09-19 20:23:00,Store_C,Cucumber,Brand_A,2,1.25,2.5,Cash
+TXN_494,CUST_171,2023-09-06 19:34:00,Store_A,Cucumber,Brand_A,4,1.2,4.8,Cash
+TXN_495,CUST_218,2023-09-26 13:30:00,Store_B,Cucumber,Brand_A,4,1.2,4.8,Cash
+TXN_496,CUST_232,2023-09-06 15:07:00,Store_B,Cucumber,Brand_A,1,1.37,1.37,Cash
+TXN_497,CUST_224,2023-09-01 12:43:00,Store_A,Cucumber,Brand_A,2,1.5,3.0,Cash
+TXN_498,CUST_161,2023-09-12 12:54:00,Store_A,Pickled Cucumbers,Brand_A,5,2.93,14.65,Cash
+TXN_499,CUST_214,2023-09-21 11:18:00,Store_B,Cucumber,Brand_C,2,1.05,2.1,Mobile Payment
+TXN_500,CUST_260,2023-09-19 18:48:00,Store_A,Cucumber,Brand_C,1,0.93,0.93,Cash
+TXN_501,CUST_245,2023-09-23 14:05:00,Store_C,Cucumber,Brand_B,3,0.98,2.94,Cash
+TXN_502,CUST_241,2023-09-20 11:00:00,Store_D,Cucumber,Brand_A,5,1.22,6.1,Cash
+TXN_503,CUST_218,2023-09-21 19:24:00,Store_B,Cucumber,Brand_A,3,1.12,3.3600000000000003,Cash
+TXN_504,CUST_172,2023-09-10 20:19:00,Store_C,Pickled Cucumbers,Brand_B,2,2.1,4.2,Cash
+TXN_505,CUST_261,2023-09-25 09:25:00,Store_A,Cucumber,Brand_B,5,0.94,4.699999999999999,Cash
+TXN_506,CUST_153,2023-09-22 11:32:00,Store_D,Pickled Cucumbers,Brand_A,4,2.46,9.84,Cash
+TXN_507,CUST_159,2023-09-28 18:15:00,Store_C,Pickled Cucumbers,Brand_C,3,1.64,4.92,Cash
+TXN_508,CUST_165,2023-09-10 20:08:00,Store_C,Cucumber,Brand_B,4,1.17,4.68,Mobile Payment
+TXN_509,CUST_121,2023-09-21 13:58:00,Store_B,Pickled Cucumbers,Brand_C,3,2.22,6.66,Cash
+TXN_510,CUST_91,2023-09-24 11:22:00,Store_A,Pickled Cucumbers,Brand_B,2,2.01,4.02,Mobile Payment
+TXN_511,CUST_116,2023-09-26 20:24:00,Store_D,Cucumber,Brand_B,2,1.13,2.26,Mobile Payment
+TXN_512,CUST_244,2023-09-25 14:33:00,Store_A,Cucumber,Brand_A,5,1.31,6.550000000000001,Cash
+TXN_513,CUST_104,2023-09-07 12:27:00,Store_B,Cucumber,Brand_C,4,1.17,4.68,Mobile Payment
+TXN_514,CUST_173,2023-09-16 15:36:00,Store_D,Cucumber,Brand_B,5,1.19,5.949999999999999,Cash
+TXN_515,CUST_27,2023-09-21 08:57:00,Store_C,Cucumber,Brand_A,1,1.13,1.13,Credit Card
+TXN_516,CUST_290,2023-09-25 20:30:00,Store_D,Cucumber,Brand_A,3,1.39,4.17,Cash
+TXN_517,CUST_109,2023-09-21 19:36:00,Store_D,Pickled Cucumbers,Brand_A,4,2.32,9.28,Mobile Payment
+TXN_518,CUST_75,2023-09-16 18:43:00,Store_A,Cucumber,Brand_B,4,0.91,3.64,Mobile Payment
+TXN_519,CUST_256,2023-09-14 13:53:00,Store_B,Cucumber,Brand_C,4,0.9,3.6,Mobile Payment
+TXN_520,CUST_190,2023-09-13 14:20:00,Store_B,Cucumber,Brand_A,1,1.23,1.23,Cash
+TXN_521,CUST_170,2023-09-17 13:49:00,Store_A,Cucumber,Brand_A,5,1.48,7.4,Credit Card
+TXN_522,CUST_41,2023-09-24 15:12:00,Store_A,Cucumber,Brand_A,1,1.16,1.16,Mobile Payment
+TXN_523,CUST_158,2023-09-29 18:53:00,Store_C,Cucumber,Brand_C,3,1.17,3.51,Cash
+TXN_524,CUST_210,2023-09-30 10:09:00,Store_C,Pickled Cucumbers,Brand_B,2,2.37,4.74,Mobile Payment
+TXN_525,CUST_139,2023-09-08 20:13:00,Store_A,Pickled Cucumbers,Brand_B,2,2.1,4.2,Cash
+TXN_526,CUST_284,2023-09-01 17:29:00,Store_D,Cucumber,Brand_A,1,1.18,1.18,Mobile Payment
+TXN_527,CUST_171,2023-09-27 19:35:00,Store_C,Cucumber,Brand_A,5,1.36,6.800000000000001,Credit Card
+TXN_528,CUST_82,2023-09-29 14:02:00,Store_C,Cucumber,Brand_A,2,1.07,2.14,Mobile Payment
+TXN_529,CUST_22,2023-09-08 13:48:00,Store_C,Pickled Cucumbers,Brand_A,5,2.07,10.35,Credit Card
+TXN_530,CUST_211,2023-09-24 12:33:00,Store_C,Cucumber,Brand_B,5,0.97,4.85,Mobile Payment
+TXN_531,CUST_34,2023-09-25 11:58:00,Store_D,Cucumber,Brand_B,1,0.99,0.99,Cash
+TXN_532,CUST_147,2023-09-26 13:18:00,Store_B,Cucumber,Brand_C,3,0.9,2.7,Cash
+TXN_533,CUST_230,2023-09-17 13:28:00,Store_A,Cucumber,Brand_C,2,0.98,1.96,Cash
+TXN_534,CUST_290,2023-09-03 17:21:00,Store_C,Cucumber,Brand_A,1,1.09,1.09,Mobile Payment
+TXN_535,CUST_32,2023-09-16 20:51:00,Store_B,Cucumber,Brand_B,1,1.07,1.07,Mobile Payment
+TXN_536,CUST_100,2023-09-29 12:39:00,Store_B,Cucumber,Brand_C,5,0.91,4.55,Cash
+TXN_537,CUST_258,2023-09-19 16:42:00,Store_A,Cucumber,Brand_B,5,1.08,5.4,Credit Card
+TXN_538,CUST_123,2023-09-09 18:14:00,Store_C,Cucumber,Brand_A,1,1.07,1.07,Cash
+TXN_539,CUST_244,2023-09-13 16:44:00,Store_A,Pickled Cucumbers,Brand_A,5,2.42,12.1,Credit Card
+TXN_540,CUST_297,2023-09-03 19:00:00,Store_D,Cucumber,Brand_A,1,1.32,1.32,Cash
+TXN_541,CUST_230,2023-09-19 12:05:00,Store_A,Pickled Cucumbers,Brand_C,2,2.02,4.04,Mobile Payment
+TXN_542,CUST_165,2023-09-25 15:41:00,Store_A,Cucumber,Brand_B,2,0.99,1.98,Cash
+TXN_543,CUST_87,2023-09-02 19:46:00,Store_A,Pickled Cucumbers,Brand_A,5,2.83,14.15,Credit Card
+TXN_544,CUST_211,2023-09-25 08:53:00,Store_D,Pickled Cucumbers,Brand_B,2,2.35,4.7,Cash
+TXN_545,CUST_101,2023-09-13 12:43:00,Store_C,Cucumber,Brand_B,2,1.38,2.76,Mobile Payment
+TXN_546,CUST_145,2023-09-27 11:55:00,Store_D,Pickled Cucumbers,Brand_A,3,2.16,6.48,Cash
+TXN_547,CUST_264,2023-09-13 15:09:00,Store_C,Pickled Cucumbers,Brand_A,5,2.82,14.1,Cash
+TXN_548,CUST_292,2023-09-05 14:59:00,Store_B,Pickled Cucumbers,Brand_B,4,1.87,7.48,Mobile Payment
+TXN_549,CUST_78,2023-09-19 08:40:00,Store_C,Pickled Cucumbers,Brand_A,1,2.97,2.97,Credit Card
+TXN_550,CUST_238,2023-09-16 08:50:00,Store_C,Cucumber,Brand_B,5,1.38,6.8999999999999995,Credit Card
+TXN_551,CUST_147,2023-09-27 11:49:00,Store_A,Pickled Cucumbers,Brand_A,3,2.25,6.75,Mobile Payment
+TXN_552,CUST_134,2023-09-13 09:02:00,Store_D,Cucumber,Brand_B,2,1.19,2.38,Mobile Payment
+TXN_553,CUST_194,2023-09-03 12:36:00,Store_B,Pickled Cucumbers,Brand_A,3,2.95,8.850000000000001,Mobile Payment
+TXN_554,CUST_227,2023-09-15 19:14:00,Store_C,Cucumber,Brand_A,2,1.1,2.2,Mobile Payment
+TXN_555,CUST_10,2023-09-19 18:55:00,Store_D,Pickled Cucumbers,Brand_B,4,1.87,7.48,Credit Card
+TXN_556,CUST_275,2023-09-11 11:03:00,Store_C,Cucumber,Brand_A,1,1.23,1.23,Cash
+TXN_557,CUST_111,2023-09-02 16:24:00,Store_B,Cucumber,Brand_A,5,1.5,7.5,Cash
+TXN_558,CUST_88,2023-09-06 16:26:00,Store_A,Cucumber,Brand_A,1,1.48,1.48,Cash
+TXN_559,CUST_162,2023-09-16 08:08:00,Store_C,Pickled Cucumbers,Brand_B,1,2.2,2.2,Mobile Payment
+TXN_560,CUST_155,2023-09-13 15:52:00,Store_D,Pickled Cucumbers,Brand_B,5,2.35,11.75,Credit Card
+TXN_561,CUST_183,2023-09-01 15:04:00,Store_A,Cucumber,Brand_B,2,1.13,2.26,Mobile Payment
+TXN_562,CUST_159,2023-09-07 16:19:00,Store_C,Cucumber,Brand_A,1,1.24,1.24,Cash
+TXN_563,CUST_3,2023-09-06 09:26:00,Store_A,Pickled Cucumbers,Brand_A,3,2.36,7.08,Credit Card
+TXN_564,CUST_63,2023-09-24 10:59:00,Store_D,Cucumber,Brand_A,5,1.38,6.8999999999999995,Cash
+TXN_565,CUST_279,2023-09-25 09:11:00,Store_D,Cucumber,Brand_A,2,1.09,2.18,Mobile Payment
+TXN_566,CUST_46,2023-09-29 16:10:00,Store_A,Cucumber,Brand_A,4,1.39,5.56,Mobile Payment
+TXN_567,CUST_266,2023-09-05 18:16:00,Store_B,Cucumber,Brand_A,4,1.49,5.96,Cash
+TXN_568,CUST_80,2023-09-04 19:23:00,Store_A,Pickled Cucumbers,Brand_A,3,2.95,8.850000000000001,Mobile Payment
+TXN_569,CUST_23,2023-09-10 14:00:00,Store_A,Cucumber,Brand_C,4,0.89,3.56,Cash
+TXN_570,CUST_156,2023-09-08 09:45:00,Store_D,Pickled Cucumbers,Brand_A,5,2.3,11.5,Cash
+TXN_571,CUST_260,2023-09-20 13:16:00,Store_C,Cucumber,Brand_A,3,1.36,4.08,Mobile Payment
+TXN_572,CUST_206,2023-09-21 17:02:00,Store_C,Cucumber,Brand_B,4,1.02,4.08,Credit Card
+TXN_573,CUST_114,2023-09-30 10:00:00,Store_C,Cucumber,Brand_A,4,1.39,5.56,Mobile Payment
+TXN_574,CUST_198,2023-09-18 08:46:00,Store_C,Pickled Cucumbers,Brand_B,4,1.98,7.92,Mobile Payment
+TXN_575,CUST_73,2023-09-13 20:18:00,Store_A,Cucumber,Brand_B,1,1.09,1.09,Credit Card
+TXN_576,CUST_215,2023-09-27 15:54:00,Store_C,Pickled Cucumbers,Brand_C,3,1.69,5.07,Cash
+TXN_577,CUST_142,2023-09-12 11:00:00,Store_A,Pickled Cucumbers,Brand_A,4,2.02,8.08,Mobile Payment
+TXN_578,CUST_41,2023-09-12 18:47:00,Store_D,Pickled Cucumbers,Brand_C,1,1.9,1.9,Mobile Payment
+TXN_579,CUST_254,2023-09-28 13:37:00,Store_B,Pickled Cucumbers,Brand_A,2,2.32,4.64,Mobile Payment
+TXN_580,CUST_176,2023-09-26 09:53:00,Store_B,Cucumber,Brand_A,3,1.11,3.33,Credit Card
+TXN_581,CUST_255,2023-09-09 09:48:00,Store_A,Pickled Cucumbers,Brand_A,5,2.37,11.850000000000001,Cash
+TXN_582,CUST_61,2023-09-09 18:10:00,Store_C,Pickled Cucumbers,Brand_C,1,1.6,1.6,Credit Card
+TXN_583,CUST_85,2023-09-19 09:28:00,Store_D,Pickled Cucumbers,Brand_A,3,2.28,6.84,Cash
+TXN_584,CUST_203,2023-09-02 18:30:00,Store_C,Pickled Cucumbers,Brand_A,1,2.24,2.24,Mobile Payment
+TXN_585,CUST_39,2023-09-12 17:44:00,Store_C,Cucumber,Brand_B,1,0.93,0.93,Credit Card
+TXN_586,CUST_120,2023-09-02 16:17:00,Store_A,Pickled Cucumbers,Brand_A,1,2.39,2.39,Mobile Payment
+TXN_587,CUST_286,2023-09-14 15:16:00,Store_D,Pickled Cucumbers,Brand_A,4,2.38,9.52,Cash
+TXN_588,CUST_45,2023-09-16 16:04:00,Store_A,Cucumber,Brand_A,3,1.44,4.32,Mobile Payment
+TXN_589,CUST_27,2023-09-16 17:29:00,Store_B,Cucumber,Brand_A,3,1.33,3.99,Credit Card
+TXN_590,CUST_11,2023-09-17 20:55:00,Store_C,Cucumber,Brand_A,5,1.26,6.3,Mobile Payment
+TXN_591,CUST_89,2023-09-07 13:40:00,Store_D,Pickled Cucumbers,Brand_A,5,2.44,12.2,Cash
+TXN_592,CUST_192,2023-09-14 11:09:00,Store_A,Cucumber,Brand_B,3,0.94,2.82,Mobile Payment
+TXN_593,CUST_84,2023-09-12 15:50:00,Store_A,Pickled Cucumbers,Brand_A,5,2.44,12.2,Credit Card
+TXN_594,CUST_36,2023-09-16 15:44:00,Store_A,Pickled Cucumbers,Brand_A,3,2.25,6.75,Mobile Payment
+TXN_595,CUST_50,2023-09-24 11:00:00,Store_B,Cucumber,Brand_B,4,1.35,5.4,Cash
+TXN_596,CUST_118,2023-09-14 16:39:00,Store_A,Pickled Cucumbers,Brand_A,2,2.56,5.12,Mobile Payment
+TXN_597,CUST_141,2023-09-08 08:01:00,Store_C,Cucumber,Brand_B,4,1.23,4.92,Credit Card
+TXN_598,CUST_8,2023-09-21 11:38:00,Store_D,Cucumber,Brand_A,3,1.05,3.1500000000000004,Cash
+TXN_599,CUST_36,2023-09-06 19:42:00,Store_B,Cucumber,Brand_A,3,1.01,3.0300000000000002,Cash
+TXN_600,CUST_256,2023-09-12 16:10:00,Store_B,Cucumber,Brand_A,3,1.42,4.26,Mobile Payment
+TXN_601,CUST_254,2023-09-02 12:22:00,Store_C,Pickled Cucumbers,Brand_A,2,2.6,5.2,Mobile Payment
+TXN_602,CUST_150,2023-09-29 17:30:00,Store_B,Cucumber,Brand_A,5,1.09,5.45,Credit Card
+TXN_603,CUST_88,2023-09-02 08:54:00,Store_C,Cucumber,Brand_A,3,1.18,3.54,Credit Card
+TXN_604,CUST_239,2023-09-04 11:57:00,Store_D,Pickled Cucumbers,Brand_A,2,2.17,4.34,Cash
+TXN_605,CUST_144,2023-09-22 13:33:00,Store_A,Cucumber,Brand_A,4,1.23,4.92,Credit Card
+TXN_606,CUST_251,2023-09-08 16:23:00,Store_C,Pickled Cucumbers,Brand_A,2,2.62,5.24,Mobile Payment
+TXN_607,CUST_285,2023-09-13 16:40:00,Store_B,Cucumber,Brand_A,5,1.44,7.199999999999999,Mobile Payment
+TXN_608,CUST_135,2023-09-14 12:35:00,Store_C,Pickled Cucumbers,Brand_A,5,2.13,10.649999999999999,Mobile Payment
+TXN_609,CUST_212,2023-09-22 18:08:00,Store_D,Cucumber,Brand_A,2,1.07,2.14,Credit Card
+TXN_610,CUST_209,2023-09-24 09:17:00,Store_A,Pickled Cucumbers,Brand_B,1,1.93,1.93,Mobile Payment
+TXN_611,CUST_120,2023-09-01 09:22:00,Store_C,Pickled Cucumbers,Brand_A,4,2.99,11.96,Credit Card
+TXN_612,CUST_48,2023-09-15 16:57:00,Store_A,Pickled Cucumbers,Brand_B,4,1.96,7.84,Mobile Payment
+TXN_613,CUST_165,2023-09-24 13:32:00,Store_A,Pickled Cucumbers,Brand_B,2,2.15,4.3,Mobile Payment
+TXN_614,CUST_267,2023-09-14 11:05:00,Store_B,Cucumber,Brand_A,5,1.47,7.35,Cash
+TXN_615,CUST_106,2023-09-13 14:56:00,Store_A,Cucumber,Brand_B,5,1.09,5.45,Credit Card
+TXN_616,CUST_245,2023-09-16 09:37:00,Store_D,Pickled Cucumbers,Brand_C,1,2.05,2.05,Cash
+TXN_617,CUST_202,2023-09-21 17:31:00,Store_D,Pickled Cucumbers,Brand_A,2,2.81,5.62,Mobile Payment
+TXN_618,CUST_194,2023-09-30 19:30:00,Store_C,Pickled Cucumbers,Brand_A,2,2.29,4.58,Credit Card
+TXN_619,CUST_53,2023-09-05 20:42:00,Store_A,Cucumber,Brand_B,4,1.34,5.36,Credit Card
+TXN_620,CUST_175,2023-09-23 09:11:00,Store_C,Pickled Cucumbers,Brand_B,1,2.18,2.18,Cash
+TXN_621,CUST_172,2023-09-01 09:19:00,Store_D,Pickled Cucumbers,Brand_A,1,2.21,2.21,Credit Card
+TXN_622,CUST_106,2023-09-26 19:47:00,Store_B,Pickled Cucumbers,Brand_A,2,2.27,4.54,Credit Card
+TXN_623,CUST_73,2023-09-21 15:04:00,Store_D,Pickled Cucumbers,Brand_A,1,2.49,2.49,Credit Card
+TXN_624,CUST_236,2023-09-19 15:22:00,Store_D,Pickled Cucumbers,Brand_A,1,2.84,2.84,Credit Card
+TXN_625,CUST_133,2023-09-16 19:58:00,Store_B,Pickled Cucumbers,Brand_B,1,2.38,2.38,Mobile Payment
+TXN_626,CUST_252,2023-09-09 16:45:00,Store_D,Cucumber,Brand_A,1,1.2,1.2,Credit Card
+TXN_627,CUST_281,2023-09-30 09:25:00,Store_A,Pickled Cucumbers,Brand_A,4,2.06,8.24,Mobile Payment
+TXN_628,CUST_109,2023-09-18 14:26:00,Store_D,Pickled Cucumbers,Brand_B,5,1.89,9.45,Credit Card
+TXN_629,CUST_80,2023-09-20 08:48:00,Store_C,Cucumber,Brand_A,3,1.28,3.84,Cash
+TXN_630,CUST_107,2023-09-16 14:40:00,Store_D,Pickled Cucumbers,Brand_A,4,2.49,9.96,Mobile Payment
+TXN_631,CUST_106,2023-09-12 09:59:00,Store_D,Pickled Cucumbers,Brand_B,4,2.31,9.24,Cash
+TXN_632,CUST_274,2023-09-04 18:03:00,Store_D,Pickled Cucumbers,Brand_B,1,2.43,2.43,Credit Card
+TXN_633,CUST_32,2023-09-16 18:24:00,Store_B,Pickled Cucumbers,Brand_A,3,2.6,7.800000000000001,Cash
+TXN_634,CUST_281,2023-09-18 19:03:00,Store_D,Cucumber,Brand_A,2,1.23,2.46,Mobile Payment
+TXN_635,CUST_14,2023-09-13 19:41:00,Store_D,Pickled Cucumbers,Brand_A,1,2.77,2.77,Cash
+TXN_636,CUST_173,2023-09-03 15:29:00,Store_A,Cucumber,Brand_A,1,1.41,1.41,Mobile Payment
+TXN_637,CUST_122,2023-09-06 08:19:00,Store_C,Pickled Cucumbers,Brand_A,3,2.93,8.790000000000001,Credit Card
+TXN_638,CUST_161,2023-09-12 19:07:00,Store_C,Pickled Cucumbers,Brand_A,2,2.95,5.9,Mobile Payment
+TXN_639,CUST_32,2023-09-20 11:31:00,Store_A,Pickled Cucumbers,Brand_A,2,2.61,5.22,Credit Card
+TXN_640,CUST_233,2023-09-10 18:37:00,Store_D,Pickled Cucumbers,Brand_A,4,2.11,8.44,Cash
+TXN_641,CUST_208,2023-09-23 09:17:00,Store_B,Cucumber,Brand_A,3,1.42,4.26,Mobile Payment
+TXN_642,CUST_150,2023-09-23 08:57:00,Store_C,Pickled Cucumbers,Brand_A,2,2.12,4.24,Cash
+TXN_643,CUST_250,2023-09-16 20:25:00,Store_B,Cucumber,Brand_A,3,1.32,3.96,Cash
+TXN_644,CUST_295,2023-09-06 19:35:00,Store_B,Cucumber,Brand_A,4,1.18,4.72,Credit Card
+TXN_645,CUST_134,2023-09-22 19:43:00,Store_C,Cucumber,Brand_A,5,1.38,6.8999999999999995,Credit Card
+TXN_646,CUST_140,2023-09-01 09:19:00,Store_C,Cucumber,Brand_B,5,1.1,5.5,Credit Card
+TXN_647,CUST_160,2023-09-20 20:31:00,Store_A,Pickled Cucumbers,Brand_A,1,2.24,2.24,Cash
+TXN_648,CUST_25,2023-09-08 19:11:00,Store_B,Pickled Cucumbers,Brand_B,1,2.26,2.26,Cash
+TXN_649,CUST_12,2023-09-21 20:20:00,Store_C,Pickled Cucumbers,Brand_B,3,1.95,5.85,Mobile Payment
+TXN_650,CUST_183,2023-09-04 12:28:00,Store_A,Pickled Cucumbers,Brand_A,1,2.94,2.94,Mobile Payment
+TXN_651,CUST_4,2023-09-04 12:30:00,Store_D,Cucumber,Brand_A,1,1.14,1.14,Credit Card
+TXN_652,CUST_295,2023-09-15 09:32:00,Store_D,Pickled Cucumbers,Brand_A,3,2.89,8.67,Cash
+TXN_653,CUST_299,2023-09-25 18:21:00,Store_C,Pickled Cucumbers,Brand_A,1,2.24,2.24,Cash
+TXN_654,CUST_70,2023-09-06 12:03:00,Store_A,Cucumber,Brand_B,4,1.1,4.4,Credit Card
+TXN_655,CUST_193,2023-09-25 11:31:00,Store_B,Pickled Cucumbers,Brand_A,3,2.64,7.92,Cash
+TXN_656,CUST_97,2023-09-24 09:50:00,Store_B,Pickled Cucumbers,Brand_A,5,2.44,12.2,Mobile Payment
+TXN_657,CUST_222,2023-09-27 12:46:00,Store_B,Pickled Cucumbers,Brand_A,2,2.22,4.44,Cash
+TXN_658,CUST_80,2023-09-10 12:32:00,Store_B,Cucumber,Brand_A,3,1.42,4.26,Mobile Payment
+TXN_659,CUST_110,2023-09-06 11:36:00,Store_D,Pickled Cucumbers,Brand_B,2,2.03,4.06,Cash
+TXN_660,CUST_128,2023-09-04 12:58:00,Store_A,Pickled Cucumbers,Brand_A,3,2.3,6.8999999999999995,Mobile Payment
+TXN_661,CUST_33,2023-09-17 20:54:00,Store_C,Pickled Cucumbers,Brand_A,5,2.89,14.450000000000001,Mobile Payment
+TXN_662,CUST_50,2023-09-06 20:06:00,Store_A,Pickled Cucumbers,Brand_C,4,1.76,7.04,Cash
+TXN_663,CUST_209,2023-09-24 17:11:00,Store_B,Pickled Cucumbers,Brand_B,4,1.82,7.28,Cash
+TXN_664,CUST_202,2023-09-21 18:01:00,Store_A,Cucumber,Brand_A,4,1.26,5.04,Mobile Payment
+TXN_665,CUST_5,2023-09-29 19:14:00,Store_D,Pickled Cucumbers,Brand_A,3,2.12,6.36,Cash
+TXN_666,CUST_193,2023-09-02 12:48:00,Store_D,Pickled Cucumbers,Brand_A,5,2.06,10.3,Mobile Payment
+TXN_667,CUST_250,2023-09-08 12:43:00,Store_B,Pickled Cucumbers,Brand_A,5,2.14,10.700000000000001,Credit Card
+TXN_668,CUST_30,2023-09-26 15:09:00,Store_A,Cucumber,Brand_A,1,1.37,1.37,Mobile Payment
+TXN_669,CUST_287,2023-09-05 14:56:00,Store_A,Cucumber,Brand_A,2,1.29,2.58,Mobile Payment
+TXN_670,CUST_237,2023-09-24 10:11:00,Store_A,Pickled Cucumbers,Brand_A,4,2.16,8.64,Cash
+TXN_671,CUST_57,2023-09-22 16:18:00,Store_C,Cucumber,Brand_A,2,1.5,3.0,Credit Card
+TXN_672,CUST_287,2023-09-19 13:11:00,Store_A,Cucumber,Brand_B,3,1.16,3.4799999999999995,Cash
+TXN_673,CUST_280,2023-09-24 08:26:00,Store_B,Cucumber,Brand_A,2,1.21,2.42,Credit Card
+TXN_674,CUST_98,2023-09-28 16:16:00,Store_D,Pickled Cucumbers,Brand_A,4,2.8,11.2,Cash
+TXN_675,CUST_203,2023-09-24 15:48:00,Store_B,Pickled Cucumbers,Brand_A,1,2.01,2.01,Mobile Payment
+TXN_676,CUST_138,2023-09-26 15:02:00,Store_A,Cucumber,Brand_C,3,1.03,3.09,Cash
+TXN_677,CUST_293,2023-09-05 09:19:00,Store_A,Cucumber,Brand_A,1,1.09,1.09,Credit Card
+TXN_678,CUST_169,2023-09-09 08:20:00,Store_D,Pickled Cucumbers,Brand_A,2,2.16,4.32,Cash
+TXN_679,CUST_290,2023-09-18 13:18:00,Store_A,Pickled Cucumbers,Brand_C,5,1.65,8.25,Mobile Payment
+TXN_680,CUST_246,2023-09-20 08:50:00,Store_B,Pickled Cucumbers,Brand_B,5,2.48,12.4,Mobile Payment
+TXN_681,CUST_127,2023-09-28 15:45:00,Store_B,Cucumber,Brand_B,2,1.25,2.5,Mobile Payment
+TXN_682,CUST_25,2023-09-23 14:54:00,Store_D,Cucumber,Brand_A,4,1.39,5.56,Mobile Payment
+TXN_683,CUST_254,2023-09-15 15:20:00,Store_A,Pickled Cucumbers,Brand_A,5,2.12,10.600000000000001,Mobile Payment
+TXN_684,CUST_56,2023-09-14 19:45:00,Store_C,Cucumber,Brand_B,3,1.36,4.08,Mobile Payment
+TXN_685,CUST_276,2023-09-08 16:01:00,Store_D,Cucumber,Brand_C,5,1.1,5.5,Mobile Payment
+TXN_686,CUST_134,2023-09-24 08:48:00,Store_C,Cucumber,Brand_A,3,1.31,3.93,Cash
+TXN_687,CUST_236,2023-09-14 09:15:00,Store_B,Cucumber,Brand_A,3,1.15,3.4499999999999997,Mobile Payment
+TXN_688,CUST_286,2023-09-21 17:34:00,Store_D,Cucumber,Brand_A,5,1.44,7.199999999999999,Mobile Payment
+TXN_689,CUST_214,2023-09-07 16:08:00,Store_A,Pickled Cucumbers,Brand_B,1,2.34,2.34,Mobile Payment
+TXN_690,CUST_85,2023-09-12 15:08:00,Store_A,Pickled Cucumbers,Brand_A,5,2.44,12.2,Mobile Payment
+TXN_691,CUST_38,2023-09-05 08:46:00,Store_D,Cucumber,Brand_A,2,1.43,2.86,Mobile Payment
+TXN_692,CUST_98,2023-09-17 09:41:00,Store_A,Cucumber,Brand_A,5,1.01,5.05,Credit Card
+TXN_693,CUST_272,2023-09-16 16:06:00,Store_C,Pickled Cucumbers,Brand_A,2,2.98,5.96,Mobile Payment
+TXN_694,CUST_151,2023-09-21 19:11:00,Store_A,Pickled Cucumbers,Brand_A,5,2.21,11.05,Cash
+TXN_695,CUST_3,2023-09-12 08:26:00,Store_D,Pickled Cucumbers,Brand_A,1,2.76,2.76,Credit Card
+TXN_696,CUST_258,2023-09-16 14:56:00,Store_C,Pickled Cucumbers,Brand_B,3,2.08,6.24,Credit Card
+TXN_697,CUST_207,2023-09-03 15:33:00,Store_A,Cucumber,Brand_A,1,1.03,1.03,Credit Card
+TXN_698,CUST_149,2023-09-27 16:50:00,Store_A,Pickled Cucumbers,Brand_A,4,2.51,10.04,Credit Card
+TXN_699,CUST_117,2023-09-24 20:36:00,Store_D,Pickled Cucumbers,Brand_A,2,2.26,4.52,Mobile Payment
+TXN_700,CUST_287,2023-09-27 14:40:00,Store_C,Pickled Cucumbers,Brand_A,4,2.35,9.4,Cash
+TXN_701,CUST_50,2023-09-04 17:09:00,Store_D,Cucumber,Brand_A,1,1.41,1.41,Mobile Payment
+TXN_702,CUST_17,2023-09-30 20:21:00,Store_D,Cucumber,Brand_A,5,1.03,5.15,Credit Card
+TXN_703,CUST_186,2023-09-17 09:19:00,Store_C,Cucumber,Brand_A,2,1.26,2.52,Credit Card
+TXN_704,CUST_19,2023-09-06 09:51:00,Store_B,Pickled Cucumbers,Brand_A,1,2.51,2.51,Cash
+TXN_705,CUST_192,2023-09-09 14:57:00,Store_B,Cucumber,Brand_A,2,1.3,2.6,Cash
+TXN_706,CUST_229,2023-09-16 10:59:00,Store_C,Cucumber,Brand_C,3,0.95,2.8499999999999996,Cash
+TXN_707,CUST_83,2023-09-03 12:29:00,Store_A,Pickled Cucumbers,Brand_A,2,2.31,4.62,Credit Card
+TXN_708,CUST_148,2023-09-15 18:19:00,Store_B,Cucumber,Brand_B,3,0.99,2.9699999999999998,Mobile Payment
+TXN_709,CUST_247,2023-09-05 20:28:00,Store_A,Cucumber,Brand_A,3,1.2,3.5999999999999996,Credit Card
+TXN_710,CUST_137,2023-09-23 20:27:00,Store_C,Pickled Cucumbers,Brand_B,2,2.14,4.28,Cash
+TXN_711,CUST_270,2023-09-06 20:58:00,Store_B,Pickled Cucumbers,Brand_B,2,1.96,3.92,Cash
+TXN_712,CUST_37,2023-09-03 16:10:00,Store_B,Cucumber,Brand_A,3,1.42,4.26,Mobile Payment
+TXN_713,CUST_102,2023-09-26 13:51:00,Store_C,Pickled Cucumbers,Brand_A,3,2.85,8.55,Mobile Payment
+TXN_714,CUST_107,2023-09-18 09:28:00,Store_C,Cucumber,Brand_A,1,1.48,1.48,Credit Card
+TXN_715,CUST_255,2023-09-24 10:07:00,Store_B,Pickled Cucumbers,Brand_A,2,2.74,5.48,Cash
+TXN_716,CUST_116,2023-09-05 12:36:00,Store_B,Pickled Cucumbers,Brand_C,2,1.53,3.06,Cash
+TXN_717,CUST_104,2023-09-03 13:04:00,Store_A,Pickled Cucumbers,Brand_B,4,1.82,7.28,Mobile Payment
+TXN_718,CUST_188,2023-09-05 15:38:00,Store_B,Cucumber,Brand_C,5,0.81,4.050000000000001,Cash
+TXN_719,CUST_282,2023-09-28 11:04:00,Store_C,Cucumber,Brand_A,5,1.37,6.8500000000000005,Cash
+TXN_720,CUST_151,2023-09-08 13:57:00,Store_B,Pickled Cucumbers,Brand_B,5,2.08,10.4,Mobile Payment
+TXN_721,CUST_21,2023-09-29 18:08:00,Store_B,Pickled Cucumbers,Brand_C,3,1.77,5.3100000000000005,Credit Card
+TXN_722,CUST_150,2023-09-22 08:01:00,Store_A,Pickled Cucumbers,Brand_A,1,2.19,2.19,Cash
+TXN_723,CUST_199,2023-09-07 15:28:00,Store_B,Pickled Cucumbers,Brand_A,1,2.78,2.78,Cash
+TXN_724,CUST_193,2023-09-20 19:03:00,Store_B,Cucumber,Brand_B,3,1.27,3.81,Mobile Payment
+TXN_725,CUST_197,2023-09-24 08:06:00,Store_B,Pickled Cucumbers,Brand_A,2,2.8,5.6,Credit Card
+TXN_726,CUST_259,2023-09-01 17:10:00,Store_C,Pickled Cucumbers,Brand_B,4,2.45,9.8,Cash
+TXN_727,CUST_270,2023-09-29 13:59:00,Store_C,Cucumber,Brand_A,5,1.34,6.7,Mobile Payment
+TXN_728,CUST_279,2023-09-14 20:51:00,Store_A,Pickled Cucumbers,Brand_B,2,1.97,3.94,Cash
+TXN_729,CUST_162,2023-09-27 20:12:00,Store_D,Cucumber,Brand_A,4,1.19,4.76,Mobile Payment
+TXN_730,CUST_212,2023-09-15 08:36:00,Store_C,Cucumber,Brand_A,5,1.17,5.85,Credit Card
+TXN_731,CUST_39,2023-09-05 15:12:00,Store_C,Cucumber,Brand_A,4,1.15,4.6,Cash
+TXN_732,CUST_4,2023-09-16 12:08:00,Store_C,Cucumber,Brand_B,1,1.13,1.13,Mobile Payment
+TXN_733,CUST_207,2023-09-04 16:29:00,Store_D,Pickled Cucumbers,Brand_B,1,2.19,2.19,Credit Card
+TXN_734,CUST_11,2023-09-01 16:14:00,Store_D,Cucumber,Brand_A,1,1.36,1.36,Cash
+TXN_735,CUST_130,2023-09-29 13:44:00,Store_C,Cucumber,Brand_A,5,1.04,5.2,Cash
+TXN_736,CUST_180,2023-09-29 20:54:00,Store_D,Cucumber,Brand_B,1,1.12,1.12,Mobile Payment
+TXN_737,CUST_260,2023-09-20 17:37:00,Store_B,Pickled Cucumbers,Brand_A,2,2.8,5.6,Mobile Payment
+TXN_738,CUST_2,2023-09-22 13:16:00,Store_C,Cucumber,Brand_B,3,1.26,3.7800000000000002,Credit Card
+TXN_739,CUST_181,2023-09-06 20:48:00,Store_A,Cucumber,Brand_A,5,1.27,6.35,Credit Card
+TXN_740,CUST_29,2023-09-11 12:45:00,Store_B,Cucumber,Brand_A,1,1.19,1.19,Cash
+TXN_741,CUST_202,2023-09-28 08:26:00,Store_D,Pickled Cucumbers,Brand_A,4,2.17,8.68,Cash
+TXN_742,CUST_162,2023-09-01 14:18:00,Store_A,Pickled Cucumbers,Brand_A,2,2.17,4.34,Credit Card
+TXN_743,CUST_269,2023-09-20 20:31:00,Store_D,Pickled Cucumbers,Brand_B,5,2.48,12.4,Credit Card
+TXN_744,CUST_42,2023-09-30 09:33:00,Store_D,Pickled Cucumbers,Brand_A,1,2.93,2.93,Cash
+TXN_745,CUST_126,2023-09-24 16:14:00,Store_A,Pickled Cucumbers,Brand_A,4,2.06,8.24,Cash
+TXN_746,CUST_100,2023-09-06 12:05:00,Store_C,Cucumber,Brand_B,2,1.07,2.14,Credit Card
+TXN_747,CUST_281,2023-09-03 19:42:00,Store_B,Cucumber,Brand_A,5,1.37,6.8500000000000005,Cash
+TXN_748,CUST_214,2023-09-18 17:28:00,Store_A,Cucumber,Brand_A,2,1.43,2.86,Credit Card
+TXN_749,CUST_161,2023-09-25 19:49:00,Store_C,Pickled Cucumbers,Brand_C,5,1.56,7.800000000000001,Credit Card
+TXN_750,CUST_177,2023-09-04 13:51:00,Store_D,Pickled Cucumbers,Brand_B,5,2.4,12.0,Credit Card
+TXN_751,CUST_266,2023-09-23 19:58:00,Store_B,Cucumber,Brand_A,2,1.27,2.54,Credit Card
+TXN_752,CUST_117,2023-09-08 09:54:00,Store_D,Cucumber,Brand_C,3,0.93,2.79,Cash
+TXN_753,CUST_249,2023-09-15 08:42:00,Store_B,Pickled Cucumbers,Brand_B,5,2.38,11.899999999999999,Credit Card
+TXN_754,CUST_160,2023-09-21 14:05:00,Store_A,Cucumber,Brand_A,3,1.25,3.75,Mobile Payment
+TXN_755,CUST_153,2023-09-04 19:29:00,Store_D,Pickled Cucumbers,Brand_A,4,2.06,8.24,Cash
+TXN_756,CUST_291,2023-09-17 16:20:00,Store_C,Cucumber,Brand_B,3,1.32,3.96,Credit Card
+TXN_757,CUST_291,2023-09-09 08:05:00,Store_D,Pickled Cucumbers,Brand_B,2,2.12,4.24,Mobile Payment
+TXN_758,CUST_10,2023-09-01 09:31:00,Store_C,Pickled Cucumbers,Brand_A,4,2.93,11.72,Credit Card
+TXN_759,CUST_6,2023-09-08 17:11:00,Store_B,Pickled Cucumbers,Brand_B,4,2.34,9.36,Credit Card
+TXN_760,CUST_198,2023-09-15 20:01:00,Store_C,Pickled Cucumbers,Brand_B,1,1.83,1.83,Credit Card
+TXN_761,CUST_59,2023-09-13 17:44:00,Store_A,Cucumber,Brand_A,1,1.47,1.47,Mobile Payment
+TXN_762,CUST_96,2023-09-11 18:58:00,Store_C,Cucumber,Brand_A,1,1.0,1.0,Credit Card
+TXN_763,CUST_168,2023-09-07 17:16:00,Store_A,Pickled Cucumbers,Brand_A,2,2.54,5.08,Credit Card
+TXN_764,CUST_91,2023-09-23 14:50:00,Store_C,Pickled Cucumbers,Brand_B,3,1.85,5.550000000000001,Mobile Payment
+TXN_765,CUST_287,2023-09-03 13:00:00,Store_D,Pickled Cucumbers,Brand_A,1,2.09,2.09,Cash
+TXN_766,CUST_172,2023-09-04 14:05:00,Store_C,Pickled Cucumbers,Brand_A,1,2.01,2.01,Mobile Payment
+TXN_767,CUST_131,2023-09-24 16:02:00,Store_D,Cucumber,Brand_B,1,1.2,1.2,Cash
+TXN_768,CUST_54,2023-09-20 16:56:00,Store_C,Pickled Cucumbers,Brand_B,1,2.42,2.42,Credit Card
+TXN_769,CUST_29,2023-09-25 15:23:00,Store_C,Pickled Cucumbers,Brand_A,1,2.7,2.7,Credit Card
+TXN_770,CUST_210,2023-09-11 11:35:00,Store_D,Pickled Cucumbers,Brand_B,4,1.86,7.44,Mobile Payment
+TXN_771,CUST_8,2023-09-23 11:30:00,Store_D,Pickled Cucumbers,Brand_A,3,2.56,7.68,Credit Card
+TXN_772,CUST_265,2023-09-09 08:15:00,Store_C,Pickled Cucumbers,Brand_B,5,1.87,9.350000000000001,Cash
+TXN_773,CUST_262,2023-09-19 17:28:00,Store_C,Pickled Cucumbers,Brand_A,4,2.44,9.76,Credit Card
+TXN_774,CUST_2,2023-09-16 19:05:00,Store_C,Pickled Cucumbers,Brand_A,3,2.06,6.18,Cash
+TXN_775,CUST_95,2023-09-16 11:09:00,Store_B,Pickled Cucumbers,Brand_B,5,2.19,10.95,Credit Card
+TXN_776,CUST_114,2023-09-27 10:16:00,Store_C,Cucumber,Brand_A,3,1.11,3.33,Mobile Payment
+TXN_777,CUST_11,2023-09-24 20:31:00,Store_A,Pickled Cucumbers,Brand_A,5,2.18,10.9,Cash
+TXN_778,CUST_234,2023-09-04 11:19:00,Store_C,Pickled Cucumbers,Brand_B,3,2.49,7.470000000000001,Cash
+TXN_779,CUST_266,2023-09-28 20:58:00,Store_A,Cucumber,Brand_B,1,1.26,1.26,Mobile Payment
+TXN_780,CUST_242,2023-09-09 20:39:00,Store_A,Cucumber,Brand_B,4,1.29,5.16,Cash
+TXN_781,CUST_29,2023-09-05 17:32:00,Store_B,Cucumber,Brand_B,4,1.24,4.96,Cash
+TXN_782,CUST_255,2023-09-21 10:55:00,Store_D,Cucumber,Brand_A,3,1.02,3.06,Credit Card
+TXN_783,CUST_242,2023-09-05 15:41:00,Store_A,Cucumber,Brand_A,5,1.27,6.35,Cash
+TXN_784,CUST_246,2023-09-25 10:30:00,Store_D,Cucumber,Brand_A,2,1.03,2.06,Credit Card
+TXN_785,CUST_51,2023-09-27 20:17:00,Store_A,Pickled Cucumbers,Brand_A,5,2.6,13.0,Credit Card
+TXN_786,CUST_179,2023-09-14 15:24:00,Store_B,Cucumber,Brand_C,3,1.13,3.3899999999999997,Cash
+TXN_787,CUST_219,2023-09-12 16:53:00,Store_A,Cucumber,Brand_A,5,1.09,5.45,Credit Card
+TXN_788,CUST_268,2023-09-11 16:24:00,Store_D,Cucumber,Brand_A,1,1.05,1.05,Cash
+TXN_789,CUST_41,2023-09-30 16:11:00,Store_A,Cucumber,Brand_A,4,1.36,5.44,Credit Card
+TXN_790,CUST_155,2023-09-30 18:32:00,Store_D,Pickled Cucumbers,Brand_C,4,1.87,7.48,Cash
+TXN_791,CUST_34,2023-09-12 11:26:00,Store_B,Pickled Cucumbers,Brand_A,1,2.61,2.61,Mobile Payment
+TXN_792,CUST_145,2023-09-26 08:35:00,Store_A,Cucumber,Brand_A,4,1.39,5.56,Credit Card
+TXN_793,CUST_33,2023-09-12 10:24:00,Store_D,Pickled Cucumbers,Brand_A,1,2.61,2.61,Mobile Payment
+TXN_794,CUST_153,2023-09-09 09:08:00,Store_A,Cucumber,Brand_B,4,1.22,4.88,Mobile Payment
+TXN_795,CUST_62,2023-09-21 16:41:00,Store_B,Cucumber,Brand_A,5,1.07,5.3500000000000005,Cash
+TXN_796,CUST_286,2023-09-26 08:56:00,Store_A,Cucumber,Brand_B,3,1.08,3.24,Credit Card
+TXN_797,CUST_134,2023-09-15 18:44:00,Store_B,Cucumber,Brand_C,5,0.94,4.699999999999999,Cash
+TXN_798,CUST_174,2023-09-18 14:26:00,Store_D,Pickled Cucumbers,Brand_A,4,2.31,9.24,Credit Card
+TXN_799,CUST_112,2023-09-06 11:52:00,Store_B,Cucumber,Brand_B,1,1.0,1.0,Mobile Payment
+TXN_800,CUST_260,2023-09-26 10:51:00,Store_B,Cucumber,Brand_C,1,1.16,1.16,Cash
+TXN_801,CUST_39,2023-09-07 19:12:00,Store_B,Cucumber,Brand_B,4,0.94,3.76,Cash
+TXN_802,CUST_122,2023-09-18 13:48:00,Store_D,Cucumber,Brand_A,5,1.05,5.25,Mobile Payment
+TXN_803,CUST_250,2023-09-05 10:07:00,Store_A,Cucumber,Brand_A,3,1.31,3.93,Mobile Payment
+TXN_804,CUST_204,2023-09-14 09:55:00,Store_C,Pickled Cucumbers,Brand_B,3,2.25,6.75,Cash
+TXN_805,CUST_264,2023-09-17 10:32:00,Store_C,Cucumber,Brand_A,4,1.45,5.8,Mobile Payment
+TXN_806,CUST_173,2023-09-27 11:18:00,Store_D,Pickled Cucumbers,Brand_B,3,1.92,5.76,Cash
+TXN_807,CUST_86,2023-09-03 14:35:00,Store_C,Pickled Cucumbers,Brand_C,1,2.21,2.21,Cash
+TXN_808,CUST_264,2023-09-07 19:50:00,Store_B,Pickled Cucumbers,Brand_C,4,1.99,7.96,Mobile Payment
+TXN_809,CUST_52,2023-09-05 15:02:00,Store_D,Cucumber,Brand_A,3,1.16,3.4799999999999995,Mobile Payment
+TXN_810,CUST_284,2023-09-23 09:34:00,Store_A,Cucumber,Brand_A,5,1.21,6.05,Cash
+TXN_811,CUST_7,2023-09-24 18:22:00,Store_D,Pickled Cucumbers,Brand_C,4,2.26,9.04,Cash
+TXN_812,CUST_81,2023-09-12 10:14:00,Store_D,Cucumber,Brand_B,4,1.36,5.44,Credit Card
+TXN_813,CUST_80,2023-09-14 15:57:00,Store_B,Cucumber,Brand_A,1,1.12,1.12,Cash
+TXN_814,CUST_91,2023-09-24 13:11:00,Store_A,Pickled Cucumbers,Brand_C,1,1.7,1.7,Mobile Payment
+TXN_815,CUST_174,2023-09-29 18:32:00,Store_A,Cucumber,Brand_B,1,1.39,1.39,Cash
+TXN_816,CUST_99,2023-09-08 11:38:00,Store_D,Cucumber,Brand_A,2,1.34,2.68,Mobile Payment
+TXN_817,CUST_278,2023-09-21 12:37:00,Store_B,Cucumber,Brand_A,1,1.46,1.46,Mobile Payment
+TXN_818,CUST_282,2023-09-29 10:26:00,Store_B,Cucumber,Brand_A,1,1.26,1.26,Mobile Payment
+TXN_819,CUST_86,2023-09-02 15:23:00,Store_B,Pickled Cucumbers,Brand_A,2,2.09,4.18,Mobile Payment
+TXN_820,CUST_210,2023-09-02 11:14:00,Store_A,Pickled Cucumbers,Brand_A,1,2.64,2.64,Cash
+TXN_821,CUST_8,2023-09-05 18:54:00,Store_D,Cucumber,Brand_B,3,0.94,2.82,Credit Card
+TXN_822,CUST_204,2023-09-26 18:43:00,Store_B,Cucumber,Brand_A,3,1.44,4.32,Mobile Payment
+TXN_823,CUST_136,2023-09-30 20:29:00,Store_C,Cucumber,Brand_A,3,1.04,3.12,Cash
+TXN_824,CUST_155,2023-09-02 13:13:00,Store_B,Pickled Cucumbers,Brand_A,4,2.7,10.8,Mobile Payment
+TXN_825,CUST_54,2023-09-02 17:19:00,Store_D,Pickled Cucumbers,Brand_A,5,2.87,14.350000000000001,Mobile Payment
+TXN_826,CUST_106,2023-09-11 11:57:00,Store_C,Cucumber,Brand_C,1,1.09,1.09,Mobile Payment
+TXN_827,CUST_255,2023-09-24 09:32:00,Store_B,Pickled Cucumbers,Brand_A,1,2.64,2.64,Cash
+TXN_828,CUST_243,2023-09-20 18:53:00,Store_D,Pickled Cucumbers,Brand_A,5,2.19,10.95,Mobile Payment
+TXN_829,CUST_44,2023-09-07 17:50:00,Store_D,Pickled Cucumbers,Brand_B,4,2.04,8.16,Credit Card
+TXN_830,CUST_186,2023-09-11 18:17:00,Store_D,Cucumber,Brand_A,3,1.22,3.66,Mobile Payment
+TXN_831,CUST_179,2023-09-14 13:01:00,Store_B,Cucumber,Brand_A,4,1.07,4.28,Credit Card
+TXN_832,CUST_48,2023-09-24 20:12:00,Store_A,Pickled Cucumbers,Brand_A,4,2.15,8.6,Mobile Payment
+TXN_833,CUST_46,2023-09-15 13:43:00,Store_D,Cucumber,Brand_A,5,1.07,5.3500000000000005,Mobile Payment
+TXN_834,CUST_220,2023-09-04 13:40:00,Store_D,Pickled Cucumbers,Brand_A,5,2.93,14.65,Mobile Payment
+TXN_835,CUST_158,2023-09-20 17:21:00,Store_C,Pickled Cucumbers,Brand_A,3,2.31,6.93,Credit Card
+TXN_836,CUST_292,2023-09-02 13:59:00,Store_D,Cucumber,Brand_A,2,1.46,2.92,Cash
+TXN_837,CUST_41,2023-09-21 20:02:00,Store_B,Cucumber,Brand_C,2,1.14,2.28,Mobile Payment
+TXN_838,CUST_252,2023-09-25 12:27:00,Store_A,Pickled Cucumbers,Brand_A,5,2.08,10.4,Mobile Payment
+TXN_839,CUST_170,2023-09-16 16:07:00,Store_A,Pickled Cucumbers,Brand_A,1,2.07,2.07,Cash
+TXN_840,CUST_31,2023-09-25 17:47:00,Store_C,Pickled Cucumbers,Brand_B,5,2.42,12.1,Credit Card
+TXN_841,CUST_245,2023-09-20 20:44:00,Store_C,Pickled Cucumbers,Brand_A,4,2.47,9.88,Mobile Payment
+TXN_842,CUST_281,2023-09-08 12:06:00,Store_D,Pickled Cucumbers,Brand_B,1,2.22,2.22,Cash
+TXN_843,CUST_240,2023-09-04 15:36:00,Store_B,Pickled Cucumbers,Brand_A,4,2.18,8.72,Cash
+TXN_844,CUST_24,2023-09-16 10:43:00,Store_A,Pickled Cucumbers,Brand_C,4,1.89,7.56,Cash
+TXN_845,CUST_4,2023-09-18 09:02:00,Store_A,Pickled Cucumbers,Brand_A,5,2.63,13.149999999999999,Mobile Payment
+TXN_846,CUST_42,2023-09-26 18:01:00,Store_B,Pickled Cucumbers,Brand_A,5,2.62,13.100000000000001,Credit Card
+TXN_847,CUST_272,2023-09-03 10:28:00,Store_C,Cucumber,Brand_A,1,1.15,1.15,Credit Card
+TXN_848,CUST_72,2023-09-09 08:31:00,Store_C,Cucumber,Brand_C,5,0.85,4.25,Mobile Payment
+TXN_849,CUST_197,2023-09-10 13:53:00,Store_D,Pickled Cucumbers,Brand_A,3,2.35,7.050000000000001,Cash
+TXN_850,CUST_170,2023-09-26 11:40:00,Store_A,Pickled Cucumbers,Brand_A,5,2.03,10.149999999999999,Credit Card
+TXN_851,CUST_250,2023-09-30 17:34:00,Store_A,Cucumber,Brand_A,3,1.46,4.38,Credit Card
+TXN_852,CUST_65,2023-09-25 13:47:00,Store_B,Pickled Cucumbers,Brand_B,5,2.46,12.3,Cash
+TXN_853,CUST_75,2023-09-07 17:54:00,Store_B,Pickled Cucumbers,Brand_A,5,2.37,11.850000000000001,Cash
+TXN_854,CUST_97,2023-09-29 08:53:00,Store_C,Pickled Cucumbers,Brand_B,5,2.07,10.35,Credit Card
+TXN_855,CUST_125,2023-09-22 17:21:00,Store_D,Cucumber,Brand_A,2,1.37,2.74,Credit Card
+TXN_856,CUST_184,2023-09-14 09:51:00,Store_C,Cucumber,Brand_A,1,1.49,1.49,Cash
+TXN_857,CUST_217,2023-09-06 14:31:00,Store_B,Pickled Cucumbers,Brand_A,2,2.31,4.62,Cash
+TXN_858,CUST_209,2023-09-07 17:54:00,Store_C,Cucumber,Brand_A,1,1.38,1.38,Mobile Payment
+TXN_859,CUST_154,2023-09-04 10:35:00,Store_C,Cucumber,Brand_A,2,1.28,2.56,Mobile Payment
+TXN_860,CUST_116,2023-09-24 16:35:00,Store_C,Pickled Cucumbers,Brand_A,4,2.48,9.92,Cash
+TXN_861,CUST_20,2023-09-02 13:06:00,Store_A,Pickled Cucumbers,Brand_B,2,2.24,4.48,Cash
+TXN_862,CUST_22,2023-09-09 17:07:00,Store_A,Cucumber,Brand_A,4,1.33,5.32,Cash
+TXN_863,CUST_166,2023-09-03 09:23:00,Store_C,Pickled Cucumbers,Brand_A,1,2.84,2.84,Mobile Payment
+TXN_864,CUST_230,2023-09-13 15:07:00,Store_C,Pickled Cucumbers,Brand_A,5,2.43,12.15,Credit Card
+TXN_865,CUST_21,2023-09-02 09:46:00,Store_B,Cucumber,Brand_A,3,1.0,3.0,Mobile Payment
+TXN_866,CUST_275,2023-09-27 20:50:00,Store_C,Cucumber,Brand_A,2,1.33,2.66,Cash
+TXN_867,CUST_61,2023-09-06 18:11:00,Store_D,Pickled Cucumbers,Brand_A,1,2.0,2.0,Credit Card
+TXN_868,CUST_77,2023-09-10 18:22:00,Store_B,Pickled Cucumbers,Brand_A,5,2.97,14.850000000000001,Cash
+TXN_869,CUST_252,2023-09-09 08:10:00,Store_A,Pickled Cucumbers,Brand_B,2,1.94,3.88,Credit Card
+TXN_870,CUST_120,2023-09-22 08:14:00,Store_B,Pickled Cucumbers,Brand_C,1,1.6,1.6,Credit Card
+TXN_871,CUST_221,2023-09-25 12:11:00,Store_B,Cucumber,Brand_A,5,1.0,5.0,Credit Card
+TXN_872,CUST_45,2023-09-12 16:49:00,Store_A,Cucumber,Brand_A,2,1.0,2.0,Mobile Payment
+TXN_873,CUST_146,2023-09-01 17:04:00,Store_B,Cucumber,Brand_B,3,0.97,2.91,Mobile Payment
+TXN_874,CUST_11,2023-09-04 20:08:00,Store_A,Cucumber,Brand_A,3,1.47,4.41,Cash
+TXN_875,CUST_148,2023-09-17 10:06:00,Store_D,Cucumber,Brand_A,2,1.07,2.14,Mobile Payment
+TXN_876,CUST_156,2023-09-17 08:52:00,Store_B,Pickled Cucumbers,Brand_A,3,2.65,7.949999999999999,Credit Card
+TXN_877,CUST_176,2023-09-08 13:34:00,Store_A,Cucumber,Brand_B,5,0.98,4.9,Cash
+TXN_878,CUST_125,2023-09-25 16:05:00,Store_D,Cucumber,Brand_B,2,1.16,2.32,Credit Card
+TXN_879,CUST_52,2023-09-30 12:46:00,Store_D,Cucumber,Brand_A,5,1.1,5.5,Mobile Payment
+TXN_880,CUST_72,2023-09-01 17:03:00,Store_D,Cucumber,Brand_A,4,1.08,4.32,Mobile Payment
+TXN_881,CUST_254,2023-09-30 10:13:00,Store_C,Cucumber,Brand_A,3,1.12,3.3600000000000003,Credit Card
+TXN_882,CUST_212,2023-09-19 09:41:00,Store_D,Cucumber,Brand_B,4,1.24,4.96,Cash
+TXN_883,CUST_139,2023-09-03 13:26:00,Store_D,Pickled Cucumbers,Brand_A,4,2.57,10.28,Mobile Payment
+TXN_884,CUST_257,2023-09-13 14:57:00,Store_A,Pickled Cucumbers,Brand_A,4,2.54,10.16,Credit Card
+TXN_885,CUST_161,2023-09-02 20:20:00,Store_D,Cucumber,Brand_B,5,1.35,6.75,Cash
+TXN_886,CUST_298,2023-09-28 11:45:00,Store_D,Pickled Cucumbers,Brand_A,2,2.18,4.36,Mobile Payment
+TXN_887,CUST_262,2023-09-11 10:10:00,Store_A,Cucumber,Brand_B,2,1.34,2.68,Cash
+TXN_888,CUST_292,2023-09-22 09:47:00,Store_D,Cucumber,Brand_A,3,1.19,3.57,Cash
+TXN_889,CUST_101,2023-09-06 16:16:00,Store_D,Cucumber,Brand_A,3,1.41,4.2299999999999995,Mobile Payment
+TXN_890,CUST_117,2023-09-12 11:55:00,Store_B,Cucumber,Brand_A,5,1.35,6.75,Cash
+TXN_891,CUST_275,2023-09-09 10:12:00,Store_A,Cucumber,Brand_B,4,1.19,4.76,Mobile Payment
+TXN_892,CUST_115,2023-09-10 10:51:00,Store_C,Pickled Cucumbers,Brand_B,5,1.9,9.5,Mobile Payment
+TXN_893,CUST_69,2023-09-29 20:47:00,Store_D,Cucumber,Brand_B,5,1.34,6.7,Cash
+TXN_894,CUST_116,2023-09-14 13:05:00,Store_A,Pickled Cucumbers,Brand_A,3,2.27,6.8100000000000005,Cash
+TXN_895,CUST_223,2023-09-10 16:44:00,Store_C,Cucumber,Brand_B,4,1.39,5.56,Credit Card
+TXN_896,CUST_190,2023-09-29 19:17:00,Store_D,Cucumber,Brand_A,5,1.21,6.05,Credit Card
+TXN_897,CUST_184,2023-09-23 18:37:00,Store_D,Cucumber,Brand_A,1,1.22,1.22,Credit Card
+TXN_898,CUST_298,2023-09-02 12:50:00,Store_C,Cucumber,Brand_B,4,1.03,4.12,Credit Card
+TXN_899,CUST_27,2023-09-23 13:31:00,Store_C,Pickled Cucumbers,Brand_A,5,2.26,11.299999999999999,Mobile Payment
+TXN_900,CUST_253,2023-09-03 08:18:00,Store_C,Pickled Cucumbers,Brand_A,4,2.02,8.08,Mobile Payment
+TXN_901,CUST_268,2023-09-14 12:08:00,Store_A,Pickled Cucumbers,Brand_A,4,2.75,11.0,Mobile Payment
+TXN_902,CUST_241,2023-09-05 17:41:00,Store_D,Cucumber,Brand_A,1,1.14,1.14,Credit Card
+TXN_903,CUST_8,2023-09-05 09:03:00,Store_D,Pickled Cucumbers,Brand_A,4,2.6,10.4,Cash
+TXN_904,CUST_113,2023-09-07 13:02:00,Store_D,Cucumber,Brand_A,3,1.35,4.050000000000001,Credit Card
+TXN_905,CUST_247,2023-09-11 10:41:00,Store_B,Cucumber,Brand_A,3,1.24,3.7199999999999998,Credit Card
+TXN_906,CUST_176,2023-09-27 16:27:00,Store_A,Cucumber,Brand_B,2,1.12,2.24,Cash
+TXN_907,CUST_104,2023-09-28 12:54:00,Store_A,Pickled Cucumbers,Brand_B,4,2.05,8.2,Cash
+TXN_908,CUST_81,2023-09-24 19:11:00,Store_C,Cucumber,Brand_A,5,1.18,5.8999999999999995,Credit Card
+TXN_909,CUST_39,2023-09-03 15:57:00,Store_D,Pickled Cucumbers,Brand_A,4,2.09,8.36,Mobile Payment
+TXN_910,CUST_213,2023-09-20 17:32:00,Store_B,Pickled Cucumbers,Brand_A,2,2.68,5.36,Credit Card
+TXN_911,CUST_25,2023-09-14 15:17:00,Store_C,Cucumber,Brand_A,3,1.25,3.75,Credit Card
+TXN_912,CUST_122,2023-09-06 12:02:00,Store_B,Cucumber,Brand_A,3,1.5,4.5,Cash
+TXN_913,CUST_5,2023-09-30 20:54:00,Store_B,Cucumber,Brand_B,2,0.98,1.96,Mobile Payment
+TXN_914,CUST_126,2023-09-29 10:58:00,Store_C,Pickled Cucumbers,Brand_A,1,2.08,2.08,Mobile Payment
+TXN_915,CUST_129,2023-09-28 17:26:00,Store_A,Pickled Cucumbers,Brand_A,3,2.93,8.790000000000001,Mobile Payment
+TXN_916,CUST_128,2023-09-20 11:14:00,Store_C,Pickled Cucumbers,Brand_A,4,2.13,8.52,Mobile Payment
+TXN_917,CUST_269,2023-09-07 11:44:00,Store_B,Cucumber,Brand_A,2,1.08,2.16,Cash
+TXN_918,CUST_75,2023-09-28 10:43:00,Store_C,Cucumber,Brand_C,5,0.92,4.6000000000000005,Credit Card
+TXN_919,CUST_1,2023-09-30 16:26:00,Store_C,Pickled Cucumbers,Brand_B,2,2.19,4.38,Mobile Payment
+TXN_920,CUST_68,2023-09-20 13:51:00,Store_A,Cucumber,Brand_A,2,1.39,2.78,Credit Card
+TXN_921,CUST_129,2023-09-04 13:21:00,Store_B,Pickled Cucumbers,Brand_B,2,2.15,4.3,Mobile Payment
+TXN_922,CUST_262,2023-09-10 10:09:00,Store_B,Pickled Cucumbers,Brand_A,2,2.66,5.32,Cash
+TXN_923,CUST_23,2023-09-29 12:06:00,Store_D,Cucumber,Brand_B,5,0.98,4.9,Credit Card
+TXN_924,CUST_188,2023-09-15 08:32:00,Store_A,Pickled Cucumbers,Brand_B,3,2.45,7.3500000000000005,Mobile Payment
+TXN_925,CUST_86,2023-09-09 10:21:00,Store_D,Cucumber,Brand_A,4,1.42,5.68,Cash
+TXN_926,CUST_300,2023-09-19 15:18:00,Store_C,Pickled Cucumbers,Brand_A,1,2.2,2.2,Mobile Payment
+TXN_927,CUST_264,2023-09-15 11:15:00,Store_A,Pickled Cucumbers,Brand_A,3,2.44,7.32,Mobile Payment
+TXN_928,CUST_136,2023-09-03 10:26:00,Store_C,Pickled Cucumbers,Brand_A,1,2.96,2.96,Cash
+TXN_929,CUST_158,2023-09-20 09:59:00,Store_A,Cucumber,Brand_B,4,1.14,4.56,Credit Card
+TXN_930,CUST_26,2023-09-07 19:19:00,Store_C,Pickled Cucumbers,Brand_A,4,2.09,8.36,Cash
+TXN_931,CUST_208,2023-09-02 14:10:00,Store_D,Pickled Cucumbers,Brand_A,5,2.58,12.9,Mobile Payment
+TXN_932,CUST_190,2023-09-03 13:28:00,Store_A,Pickled Cucumbers,Brand_B,3,2.43,7.290000000000001,Mobile Payment
+TXN_933,CUST_266,2023-09-20 17:15:00,Store_B,Cucumber,Brand_C,4,0.87,3.48,Credit Card
+TXN_934,CUST_239,2023-09-29 10:14:00,Store_D,Pickled Cucumbers,Brand_A,5,2.08,10.4,Credit Card
+TXN_935,CUST_162,2023-09-29 15:31:00,Store_A,Cucumber,Brand_A,1,1.18,1.18,Cash
+TXN_936,CUST_93,2023-09-11 09:54:00,Store_A,Pickled Cucumbers,Brand_A,1,2.34,2.34,Mobile Payment
+TXN_937,CUST_275,2023-09-20 11:10:00,Store_A,Pickled Cucumbers,Brand_A,5,2.6,13.0,Cash
+TXN_938,CUST_74,2023-09-30 17:54:00,Store_A,Pickled Cucumbers,Brand_C,2,1.82,3.64,Credit Card
+TXN_939,CUST_70,2023-09-29 13:44:00,Store_C,Cucumber,Brand_A,2,1.38,2.76,Credit Card
+TXN_940,CUST_235,2023-09-29 20:36:00,Store_D,Cucumber,Brand_A,4,1.14,4.56,Cash
+TXN_941,CUST_70,2023-09-10 14:01:00,Store_B,Pickled Cucumbers,Brand_A,2,2.95,5.9,Credit Card
+TXN_942,CUST_176,2023-09-16 13:21:00,Store_D,Pickled Cucumbers,Brand_A,5,2.74,13.700000000000001,Mobile Payment
+TXN_943,CUST_159,2023-09-23 14:28:00,Store_A,Pickled Cucumbers,Brand_B,4,2.14,8.56,Mobile Payment
+TXN_944,CUST_222,2023-09-28 14:13:00,Store_D,Pickled Cucumbers,Brand_B,1,2.09,2.09,Cash
+TXN_945,CUST_226,2023-09-19 15:12:00,Store_B,Cucumber,Brand_A,3,1.01,3.0300000000000002,Credit Card
+TXN_946,CUST_94,2023-09-01 19:11:00,Store_A,Pickled Cucumbers,Brand_A,2,2.79,5.58,Cash
+TXN_947,CUST_34,2023-09-30 14:57:00,Store_A,Cucumber,Brand_A,2,1.33,2.66,Mobile Payment
+TXN_948,CUST_46,2023-09-28 12:56:00,Store_A,Cucumber,Brand_C,3,1.07,3.21,Mobile Payment
+TXN_949,CUST_66,2023-09-01 08:45:00,Store_B,Pickled Cucumbers,Brand_B,4,1.99,7.96,Credit Card
+TXN_950,CUST_113,2023-09-19 10:29:00,Store_A,Cucumber,Brand_A,2,1.42,2.84,Cash
+TXN_951,CUST_176,2023-09-12 20:40:00,Store_A,Pickled Cucumbers,Brand_B,2,2.14,4.28,Mobile Payment
+TXN_952,CUST_285,2023-09-15 16:49:00,Store_D,Pickled Cucumbers,Brand_B,5,2.04,10.2,Cash
+TXN_953,CUST_63,2023-09-20 08:09:00,Store_D,Pickled Cucumbers,Brand_A,2,2.39,4.78,Credit Card
+TXN_954,CUST_266,2023-09-04 13:12:00,Store_D,Pickled Cucumbers,Brand_C,5,1.88,9.399999999999999,Credit Card
+TXN_955,CUST_292,2023-09-28 20:49:00,Store_C,Pickled Cucumbers,Brand_A,4,2.83,11.32,Credit Card
+TXN_956,CUST_121,2023-09-14 15:24:00,Store_B,Pickled Cucumbers,Brand_A,5,2.79,13.95,Mobile Payment
+TXN_957,CUST_215,2023-09-28 10:12:00,Store_C,Cucumber,Brand_A,1,1.27,1.27,Mobile Payment
+TXN_958,CUST_215,2023-09-26 17:10:00,Store_C,Cucumber,Brand_A,5,1.02,5.1,Cash
+TXN_959,CUST_186,2023-09-12 09:45:00,Store_B,Pickled Cucumbers,Brand_A,4,2.25,9.0,Credit Card
+TXN_960,CUST_250,2023-09-27 20:00:00,Store_A,Cucumber,Brand_B,1,1.09,1.09,Mobile Payment
+TXN_961,CUST_286,2023-09-24 12:18:00,Store_D,Cucumber,Brand_A,3,1.1,3.3000000000000003,Mobile Payment
+TXN_962,CUST_68,2023-09-15 14:01:00,Store_C,Pickled Cucumbers,Brand_B,3,1.94,5.82,Cash
+TXN_963,CUST_48,2023-09-26 09:24:00,Store_C,Pickled Cucumbers,Brand_A,4,2.22,8.88,Credit Card
+TXN_964,CUST_252,2023-09-10 08:01:00,Store_B,Cucumber,Brand_A,2,1.46,2.92,Mobile Payment
+TXN_965,CUST_80,2023-09-16 12:34:00,Store_C,Pickled Cucumbers,Brand_A,5,2.38,11.899999999999999,Mobile Payment
+TXN_966,CUST_273,2023-09-17 20:20:00,Store_C,Cucumber,Brand_A,2,1.19,2.38,Mobile Payment
+TXN_967,CUST_228,2023-09-21 18:41:00,Store_B,Cucumber,Brand_B,3,1.36,4.08,Cash
+TXN_968,CUST_259,2023-09-13 20:04:00,Store_A,Cucumber,Brand_A,1,1.08,1.08,Cash
+TXN_969,CUST_213,2023-09-26 16:49:00,Store_B,Pickled Cucumbers,Brand_A,4,2.68,10.72,Credit Card
+TXN_970,CUST_152,2023-09-22 12:34:00,Store_D,Cucumber,Brand_A,1,1.49,1.49,Mobile Payment
+TXN_971,CUST_73,2023-09-13 11:36:00,Store_B,Pickled Cucumbers,Brand_B,3,2.44,7.32,Cash
+TXN_972,CUST_147,2023-09-01 13:05:00,Store_C,Pickled Cucumbers,Brand_C,4,1.69,6.76,Mobile Payment
+TXN_973,CUST_119,2023-09-21 16:15:00,Store_D,Cucumber,Brand_B,1,1.14,1.14,Mobile Payment
+TXN_974,CUST_297,2023-09-20 19:21:00,Store_A,Pickled Cucumbers,Brand_A,5,2.19,10.95,Credit Card
+TXN_975,CUST_8,2023-09-20 13:42:00,Store_D,Cucumber,Brand_A,4,1.32,5.28,Mobile Payment
+TXN_976,CUST_211,2023-09-01 11:06:00,Store_D,Cucumber,Brand_A,3,1.39,4.17,Credit Card
+TXN_977,CUST_107,2023-09-02 15:41:00,Store_D,Cucumber,Brand_A,4,1.21,4.84,Mobile Payment
+TXN_978,CUST_163,2023-09-16 10:35:00,Store_C,Cucumber,Brand_A,4,1.3,5.2,Mobile Payment
+TXN_979,CUST_85,2023-09-01 15:52:00,Store_D,Cucumber,Brand_A,4,1.28,5.12,Credit Card
+TXN_980,CUST_70,2023-09-12 08:21:00,Store_B,Cucumber,Brand_A,1,1.27,1.27,Cash
+TXN_981,CUST_110,2023-09-28 09:37:00,Store_B,Pickled Cucumbers,Brand_A,2,2.42,4.84,Mobile Payment
+TXN_982,CUST_146,2023-09-29 13:30:00,Store_D,Cucumber,Brand_B,1,1.33,1.33,Credit Card
+TXN_983,CUST_160,2023-09-24 11:04:00,Store_B,Pickled Cucumbers,Brand_A,3,2.55,7.6499999999999995,Mobile Payment
+TXN_984,CUST_270,2023-09-18 16:38:00,Store_C,Pickled Cucumbers,Brand_A,1,2.65,2.65,Mobile Payment
+TXN_985,CUST_286,2023-09-14 16:29:00,Store_D,Cucumber,Brand_B,4,1.1,4.4,Cash
+TXN_986,CUST_236,2023-09-24 11:39:00,Store_D,Cucumber,Brand_A,1,1.29,1.29,Credit Card
+TXN_987,CUST_266,2023-09-20 20:01:00,Store_D,Cucumber,Brand_B,2,1.22,2.44,Credit Card
+TXN_988,CUST_202,2023-09-23 14:51:00,Store_A,Pickled Cucumbers,Brand_A,1,2.25,2.25,Mobile Payment
+TXN_989,CUST_292,2023-09-23 08:29:00,Store_D,Cucumber,Brand_A,2,1.39,2.78,Mobile Payment
+TXN_990,CUST_245,2023-09-26 09:29:00,Store_B,Cucumber,Brand_B,4,1.3,5.2,Mobile Payment
+TXN_991,CUST_52,2023-09-02 20:41:00,Store_D,Cucumber,Brand_B,2,0.91,1.82,Cash
+TXN_992,CUST_123,2023-09-25 11:39:00,Store_C,Cucumber,Brand_B,2,1.32,2.64,Cash
+TXN_993,CUST_197,2023-09-04 11:41:00,Store_A,Pickled Cucumbers,Brand_A,5,2.45,12.25,Cash
+TXN_994,CUST_238,2023-09-26 14:02:00,Store_B,Pickled Cucumbers,Brand_A,2,2.57,5.14,Cash
+TXN_995,CUST_77,2023-09-29 12:12:00,Store_C,Pickled Cucumbers,Brand_A,5,2.13,10.649999999999999,Cash
+TXN_996,CUST_255,2023-09-09 20:10:00,Store_B,Cucumber,Brand_A,2,1.03,2.06,Cash
+TXN_997,CUST_266,2023-09-09 17:02:00,Store_C,Pickled Cucumbers,Brand_C,5,1.5,7.5,Cash
+TXN_998,CUST_15,2023-09-02 12:56:00,Store_C,Cucumber,Brand_A,2,1.0,2.0,Cash
+TXN_999,CUST_56,2023-09-02 10:46:00,Store_A,Pickled Cucumbers,Brand_C,2,1.86,3.72,Cash
+TXN_1000,CUST_225,2023-09-26 18:51:00,Store_C,Pickled Cucumbers,Brand_A,4,2.01,8.04,Cash
