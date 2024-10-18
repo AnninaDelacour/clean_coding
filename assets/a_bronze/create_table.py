@@ -20,11 +20,9 @@ def create_table_and_validate(df):
     # Validierung der Daten mit Pandera
     validated_df = transaction_schema.validate(df)
 
-    # Verbindung zu SQLite herstellen
     conn = sqlite3.connect('/opt/dagster/app/transaction_data.db')
     cursor = conn.cursor()
 
-    # Erstelle die Tabelle, falls sie noch nicht existiert
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS Transactions (
             Transaction_ID TEXT,
@@ -41,10 +39,8 @@ def create_table_and_validate(df):
         )
     ''')
 
-    # Speichere die validierten Daten in der SQLite-Datenbank
     validated_df.to_sql('Transactions', conn, if_exists='append', index=False)
 
-    # Verbindung schließen
     conn.close()
 
     return validated_df
