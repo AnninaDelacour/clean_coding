@@ -3,29 +3,29 @@ import pandera as pa
 from pandera import Column, DataFrameSchema
 
 # Definiere das Schema für die CSV-Daten
-bronze_schema = DataFrameSchema({
+gold_ml_schema = DataFrameSchema({
     "Transaction_ID": Column(pa.Int),
-    "Cashier_ID": Column(pa.String, nullable=True),
-    "Date_Time": Column(pa.DateTime, nullable=True),
-    "Store_Location": Column(pa.String, nullable=True),
-    "Product": Column(pa.String, nullable=True),
-    "Brand": Column(pa.String, nullable=True),
-    "Quantity": Column(pa.Int, nullable=True),
-    "Total_Price": Column(pa.Float, nullable=True),
-    "Payment_Method": Column(pa.String, nullable=True),
-    "Membership_ID": Column(pa.String, nullable=True),
+    "Cashier_ID": Column(pa.String),
+    "Date_Time": Column(pa.DateTime),
+    "Store_Location": Column(pa.String),
+    "Product": Column(pa.String),
+    "Brand": Column(pa.String),
+    "Quantity": Column(pa.Int),
+    "Total_Price": Column(pa.Float),
+    "Payment_Method": Column(pa.String),
+    "Membership_ID": Column(pa.String),
     "Ingested_Timestamp": Column(pa.DateTime)
 })
 
 def create_table_and_validate(df):
     # Validierung der Daten mit Pandera
-    validated_df = bronze_schema.validate(df)
+    validated_df = gold_ml_schema.validate(df)
 
     conn = sqlite3.connect('/opt/dagster/app/transaction_data.db')
     cursor = conn.cursor()
 
     cursor.execute('''
-        CREATE TABLE IF NOT EXISTS Bronze (
+        CREATE TABLE IF NOT EXISTS Gold_ML (
             Transaction_ID INT,
             Cashier_ID TEXT,
             Date_Time TEXT,
@@ -41,7 +41,7 @@ def create_table_and_validate(df):
         )
     ''')
 
-    validated_df.to_sql('Bronze', conn, if_exists='append', index=False)
+    validated_df.to_sql('Gold_ML', conn, if_exists='append', index=False)
 
     conn.close()
 

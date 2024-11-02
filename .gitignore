@@ -27,6 +27,8 @@ __pycache__/
 
 .env
 
+data/
+
 dagit_run_logs
 python_modules/libraries/dagster-aws/dagster_aws/ecs/config.yaml
 
