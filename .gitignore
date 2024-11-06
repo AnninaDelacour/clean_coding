@@ -20,6 +20,7 @@ transaction_data.db
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+jupyter_notebooks/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

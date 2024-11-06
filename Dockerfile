@@ -2,7 +2,7 @@ FROM python:3.10-slim
 
 RUN mkdir -p /opt/dagster/dagster_home /opt/dagster/app
 
-RUN pip install dagster dagit dagster-webserver pandas pandera
+RUN pip install dagster dagit dagster-webserver pandas pandera scikit-learn numpy
 
 # Kopiere den gesamten Inhalt des Ordners "elt_processing" ins Verzeichnis /opt/dagster/app
 COPY . /opt/dagster/app/

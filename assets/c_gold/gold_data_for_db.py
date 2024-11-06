@@ -7,8 +7,8 @@ from datetime import datetime
 data_folder = '/opt/dagster/app/data'
 
 @asset
-def gold_data_db(silver_nan_and_validated):
-    gold_data_df = silver_nan_and_validated.dropna()
+def gold_data_db(silver_sorted):
+    gold_data_df = silver_sorted
 
     # Behalte den DataFrame in `gold_data_df_final`
     gold_data_df_final = create_table_and_validate(gold_data_df)

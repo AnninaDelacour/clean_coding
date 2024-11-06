@@ -12,9 +12,10 @@ def silver_null_handling():
 
     bronze_df = pd.read_csv(latest_bronze_file_path)
     silver_data_drop_null_df = bronze_df.dropna(axis=0, subset=['Price_Per_Unit', 'Total_Price'], thresh=1)
-    silver_data_drop_null_df.to_csv("/opt/dagster/app/data/silver_data_null_handling.csv", index=False)
+    silver_data_drop_na = silver_data_drop_null_df.dropna()
+    silver_data_drop_na.to_csv("/opt/dagster/app/data/silver_data_null_handling.csv", index=False)
 
-    return silver_data_drop_null_df
+    return silver_data_drop_na
 
 @asset_check(asset=silver_null_handling)
 def silver_data_has_no_nulls(silver_null_handling):
